@@ -1,0 +1,10 @@
+C:\Users\Mr\Documents\Visual Studio 2015\Projects\Biocross\Biocross.Log\bin\Debug\Biocross.Log.dll
+C:\Users\Mr\Documents\Visual Studio 2015\Projects\Biocross\Biocross.Log\bin\Debug\Biocross.Log.pdb
+C:\Users\Mr\Documents\Visual Studio 2015\Projects\Biocross\Biocross.Log\obj\Debug\Biocross.Log.csprojResolveAssemblyReference.cache
+C:\Users\Mr\Documents\Visual Studio 2015\Projects\Biocross\Biocross.Log\obj\Debug\Biocross.Log.dll
+C:\Users\Mr\Documents\Visual Studio 2015\Projects\Biocross\Biocross.Log\obj\Debug\Biocross.Log.pdb
+D:\Visual Studio 2015\Projects\Biocross\Biocross.Log\bin\Debug\Biocross.Log.dll
+D:\Visual Studio 2015\Projects\Biocross\Biocross.Log\bin\Debug\Biocross.Log.pdb
+D:\Visual Studio 2015\Projects\Biocross\Biocross.Log\obj\Debug\Biocross.Log.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\Biocross\Biocross.Log\obj\Debug\Biocross.Log.dll
+D:\Visual Studio 2015\Projects\Biocross\Biocross.Log\obj\Debug\Biocross.Log.pdb
