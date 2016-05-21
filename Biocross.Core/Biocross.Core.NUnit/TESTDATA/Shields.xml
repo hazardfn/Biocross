@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Shields>
+ 
+<Shield>
+ <IDS>3088051465</IDS>
+ <Name>shield01_mark01_lf</Name>
+ <RealName>Sentry L. F. Shield (Class 1 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3088575754</IDS>
+ <Name>shield01_mark02_lf</Name>
+ <RealName>Adv. Sentry L. F. Shield (Class 2 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3089100043</IDS>
+ <Name>shield01_mark03_lf</Name>
+ <RealName>Guardian L. F. Shield (Class 3 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3089624333</IDS>
+ <Name>shield01_mark04_lf</Name>
+ <RealName>Adv. Guardian L. F. Shield (Class 4 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3090148620</IDS>
+ <Name>shield01_mark05_lf</Name>
+ <RealName>Sentinel L. F. Shield (Class 5 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3090672911</IDS>
+ <Name>shield01_mark06_lf</Name>
+ <RealName>Adv. Sentinel L. F. Shield (Class 6 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3091197198</IDS>
+ <Name>shield01_mark07_lf</Name>
+ <RealName>Protector L. F. Shield (Class 7 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3087527234</IDS>
+ <Name>shield01_mark08_lf</Name>
+ <RealName>Adv. Protector L. F. Shield (Class 8 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3088051523</IDS>
+ <Name>shield01_mark09_lf</Name>
+ <RealName>Champion L. F. Shield (Class 9 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2953309256</IDS>
+ <Name>shield01_mark10_lf</Name>
+ <RealName>Adv. Champion L. F. Shield (Class 10 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3138383109</IDS>
+ <Name>shield02_mark01_lf</Name>
+ <RealName>Rampart L. F. Shield (Class 1 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3138907398</IDS>
+ <Name>shield02_mark02_lf</Name>
+ <RealName>Adv. Rampart L. F. Shield (Class 2 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3139431687</IDS>
+ <Name>shield02_mark03_lf</Name>
+ <RealName>Sconce L. F. Shield (Class 3 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3139955969</IDS>
+ <Name>shield02_mark04_lf</Name>
+ <RealName>Adv. Sconce L. F. Shield (Class 4 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3140480256</IDS>
+ <Name>shield02_mark05_lf</Name>
+ <RealName>Palisade L. F. Shield (Class 5 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3141004547</IDS>
+ <Name>shield02_mark06_lf</Name>
+ <RealName>Adv. Palisade L. F. Shield (Class 6 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3141528834</IDS>
+ <Name>shield02_mark07_lf</Name>
+ <RealName>Bulwark L. F. Shield (Class 7 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3137858894</IDS>
+ <Name>shield02_mark08_lf</Name>
+ <RealName>Adv. Bulwark L. F. Shield (Class 8 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3138383183</IDS>
+ <Name>shield02_mark09_lf</Name>
+ <RealName>Barrier L. F. Shield (Class 9 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3003640900</IDS>
+ <Name>shield02_mark10_lf</Name>
+ <RealName>Adv. Barrier L. F. Shield (Class 10 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3121605889</IDS>
+ <Name>shield03_mark01_lf</Name>
+ <RealName>Armet L. F. Shield (Class 1 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3122130178</IDS>
+ <Name>shield03_mark02_lf</Name>
+ <RealName>Adv. Armet L. F. Shield (Class 2 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3122654467</IDS>
+ <Name>shield03_mark03_lf</Name>
+ <RealName>Cuisse L. F. Shield (Class 3 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3123178757</IDS>
+ <Name>shield03_mark04_lf</Name>
+ <RealName>Adv. Cuisse L. F. Shield (Class 4 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3123703044</IDS>
+ <Name>shield03_mark05_lf</Name>
+ <RealName>Pourpoint L. F. Shield (Class 5 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3124227335</IDS>
+ <Name>shield03_mark06_lf</Name>
+ <RealName>Adv. Pourpoint L. F. Shield (Class 6 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3124751622</IDS>
+ <Name>shield03_mark07_lf</Name>
+ <RealName>Aegis L. F. Shield (Class 7 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3121081674</IDS>
+ <Name>shield03_mark08_lf</Name>
+ <RealName>Adv. Aegis L. F. Shield (Class 8 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3121605963</IDS>
+ <Name>shield03_mark09_lf</Name>
+ <RealName>Brigandine L. F. Shield (Class 9 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2986863680</IDS>
+ <Name>shield03_mark10_lf</Name>
+ <RealName>Adv. Brigandine L. F. Shield  (Class 10 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3097488713</IDS>
+ <Name>shield01_mark01_hf</Name>
+ <RealName>Sentry H. F. Shield (Class 1 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3095915850</IDS>
+ <Name>shield01_mark02_hf</Name>
+ <RealName>Adv. Sentry H. F. Shield (Class 2 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3096440139</IDS>
+ <Name>shield01_mark03_hf</Name>
+ <RealName>Guardian H. F. Shield (Class 3 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3099061581</IDS>
+ <Name>shield01_mark04_hf</Name>
+ <RealName>Adv. Guardian H. F. Shield (Class 4 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3099585868</IDS>
+ <Name>shield01_mark05_hf</Name>
+ <RealName>Sentinel H. F. Shield (Class 5 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3098013007</IDS>
+ <Name>shield01_mark06_hf</Name>
+ <RealName>Adv. Sentinel H. F. Shield (Class 6 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3098537294</IDS>
+ <Name>shield01_mark07_hf</Name>
+ <RealName>Protector H. F. Shield (Class 7 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3096964354</IDS>
+ <Name>shield01_mark08_hf</Name>
+ <RealName>Adv. Protector H. F. Shield (Class 8 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3097488643</IDS>
+ <Name>shield01_mark09_hf</Name>
+ <RealName>Champion H. F. Shield (Class 9 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2962746376</IDS>
+ <Name>shield01_mark10_hf</Name>
+ <RealName>Adv. Champion H. F. Shield (Class 10 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3147820357</IDS>
+ <Name>shield02_mark01_hf</Name>
+ <RealName>Rampart H. F. Shield (Class 1 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3146247494</IDS>
+ <Name>shield02_mark02_hf</Name>
+ <RealName>Adv. Rampart H. F. Shield (Class 2 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3146771783</IDS>
+ <Name>shield02_mark03_hf</Name>
+ <RealName>Sconce H. F. Shield (Class 3 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3149393217</IDS>
+ <Name>shield02_mark04_hf</Name>
+ <RealName>Adv. Sconce H. F. Shield (Class 4 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3149917504</IDS>
+ <Name>shield02_mark05_hf</Name>
+ <RealName>Palisade H. F. Shield (Class 5 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3148344643</IDS>
+ <Name>shield02_mark06_hf</Name>
+ <RealName>Adv. Palisade H. F. Shield (Class 6 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3148868930</IDS>
+ <Name>shield02_mark07_hf</Name>
+ <RealName>Bulwark H. F. Shield (Class 7 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3147296014</IDS>
+ <Name>shield02_mark08_hf</Name>
+ <RealName>Adv. Bulwark H. F. Shield (Class 8 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3147820303</IDS>
+ <Name>shield02_mark09_hf</Name>
+ <RealName>Barrier H. F. Shield (Class 9 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3013078020</IDS>
+ <Name>shield02_mark10_hf</Name>
+ <RealName>Adv. Barrier H. F. Shield (Class 10 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3131043137</IDS>
+ <Name>shield03_mark01_hf</Name>
+ <RealName>Armet H. F. Shield (Class 1 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3129470274</IDS>
+ <Name>shield03_mark02_hf</Name>
+ <RealName>Adv. Armet H. F. Shield (Class 2 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3129994563</IDS>
+ <Name>shield03_mark03_hf</Name>
+ <RealName>Cuisse H. F. Shield (Class 3 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3132616005</IDS>
+ <Name>shield03_mark04_hf</Name>
+ <RealName>Adv. Cuisse H. F. Shield (Class 4 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3133140292</IDS>
+ <Name>shield03_mark05_hf</Name>
+ <RealName>Pourpoint H. F. Shield (Class 5 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3131567431</IDS>
+ <Name>shield03_mark06_hf</Name>
+ <RealName>Adv. Pourpoint H. F. Shield (Class 6 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3132091718</IDS>
+ <Name>shield03_mark07_hf</Name>
+ <RealName>Aegis H. F. Shield (Class 7 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3130518794</IDS>
+ <Name>shield03_mark08_hf</Name>
+ <RealName>Adv. Aegis H. F. Shield (Class 8 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3131043083</IDS>
+ <Name>shield03_mark09_hf</Name>
+ <RealName>Brigandine H. F. Shield (Class 9 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2996300800</IDS>
+ <Name>shield03_mark10_hf</Name>
+ <RealName>Adv. Brigandine H. F. Shield  (Class 10 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3108339080</IDS>
+ <Name>shield01_mark01_fr</Name>
+ <RealName>Sentry Fr. Shield (Class 1 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3109911947</IDS>
+ <Name>shield01_mark02_fr</Name>
+ <RealName>Adv. Sentry Fr. Shield (Class 2 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3109387658</IDS>
+ <Name>shield01_mark03_fr</Name>
+ <RealName>Guardian Fr. Shield (Class 3 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3110960524</IDS>
+ <Name>shield01_mark04_fr</Name>
+ <RealName>Adv. Guardian Fr. Shield (Class 4 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3110436237</IDS>
+ <Name>shield01_mark05_fr</Name>
+ <RealName>Sentinel Fr. Shield (Class 5 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3112009102</IDS>
+ <Name>shield01_mark06_fr</Name>
+ <RealName>Adv. Sentinel Fr. Shield (Class 6 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3111484815</IDS>
+ <Name>shield01_mark07_fr</Name>
+ <RealName>Protector Fr. Shield (Class 7 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3108863427</IDS>
+ <Name>shield01_mark08_fr</Name>
+ <RealName>Adv. Protector Fr. Shield (Class 8 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3108339138</IDS>
+ <Name>shield01_mark09_fr</Name>
+ <RealName>Champion Fr. Shield (Class 9 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2974645449</IDS>
+ <Name>shield01_mark10_fr</Name>
+ <RealName>Adv. Champion Fr. Shield (Class 10 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3125116292</IDS>
+ <Name>shield02_mark01_fr</Name>
+ <RealName>Rampart Fr. Shield (Class 1 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3126689159</IDS>
+ <Name>shield02_mark02_fr</Name>
+ <RealName>Adv. Rampart Fr. Shield (Class 2 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3126164870</IDS>
+ <Name>shield02_mark03_fr</Name>
+ <RealName>Sconce Fr. Shield (Class 3 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3127737728</IDS>
+ <Name>shield02_mark04_fr</Name>
+ <RealName>Adv. Sconce Fr. Shield (Class 4 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3127213441</IDS>
+ <Name>shield02_mark05_fr</Name>
+ <RealName>Palisade Fr. Shield (Class 5 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3128786306</IDS>
+ <Name>shield02_mark06_fr</Name>
+ <RealName>Adv. Palisade Fr. Shield (Class 6 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3128262019</IDS>
+ <Name>shield02_mark07_fr</Name>
+ <RealName>Bulwark Fr. Shield (Class 7 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3125640655</IDS>
+ <Name>shield02_mark08_fr</Name>
+ <RealName>Adv. Bulwark Fr. Shield (Class 8 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3125116366</IDS>
+ <Name>shield02_mark09_fr</Name>
+ <RealName>Barrier Fr. Shield (Class 9 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2991422661</IDS>
+ <Name>shield02_mark10_fr</Name>
+ <RealName>Adv. Barrier Fr. Shield (Class 10 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3141893504</IDS>
+ <Name>shield03_mark01_fr</Name>
+ <RealName>Armet Fr. Shield (Class 1 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3143466371</IDS>
+ <Name>shield03_mark02_fr</Name>
+ <RealName>Adv. Armet Fr. Shield (Class 2 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3142942082</IDS>
+ <Name>shield03_mark03_fr</Name>
+ <RealName>Cuisse Fr. Shield (Class 3 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3144514948</IDS>
+ <Name>shield03_mark04_fr</Name>
+ <RealName>Adv. Cuisse Fr. Shield (Class 4 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3143990661</IDS>
+ <Name>shield03_mark05_fr</Name>
+ <RealName>Pourpoint Fr. Shield (Class 5 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3145563526</IDS>
+ <Name>shield03_mark06_fr</Name>
+ <RealName>Adv. Pourpoint Fr. Shield (Class 6 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3145039239</IDS>
+ <Name>shield03_mark07_fr</Name>
+ <RealName>Aegis Fr. Shield (Class 7 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3142417867</IDS>
+ <Name>shield03_mark08_fr</Name>
+ <RealName>Adv. Aegis Fr. Shield (Class 8 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3141893578</IDS>
+ <Name>shield03_mark09_fr</Name>
+ <RealName>Brigandine Fr. Shield (Class 9 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>3008199873</IDS>
+ <Name>shield03_mark10_fr</Name>
+ <RealName>Adv. Brigandine Fr. Shield  (Class 10 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387941132</IDS>
+ <Name>npc_shield01_mark01</Name>
+ <RealName>Sentry NPC Shield (Class 1 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924833548</IDS>
+ <Name>npc_shield01_mark02</Name>
+ <RealName>Adv. Sentry NPC Shield (Class 2 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387967756</IDS>
+ <Name>npc_shield01_mark03</Name>
+ <RealName>Guardian NPC Shield (Class 3 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924843788</IDS>
+ <Name>npc_shield01_mark04</Name>
+ <RealName>Adv. Sentry NPC Shield (Class 4 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387969804</IDS>
+ <Name>npc_shield01_mark05</Name>
+ <RealName>Sentinel NPC Shield (Class 5 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924870412</IDS>
+ <Name>npc_shield01_mark06</Name>
+ <RealName>Adv. Sentinel NPC Shield (Class 6 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387996428</IDS>
+ <Name>npc_shield01_mark07</Name>
+ <RealName>Protector NPC Shield (Class 7 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924749580</IDS>
+ <Name>npc_shield01_mark08</Name>
+ <RealName>Adv. Protector NPC Shield (Class 8 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387883788</IDS>
+ <Name>npc_shield01_mark09</Name>
+ <RealName>Champion NPC Shield (Class 9 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924544774</IDS>
+ <Name>npc_shield01_mark10</Name>
+ <RealName>Adv. Champion NPC Shield (Class 10 Graviton)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924829455</IDS>
+ <Name>npc_shield02_mark01</Name>
+ <RealName>Rampart NPC Shield (Class 1 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387945231</IDS>
+ <Name>npc_shield02_mark02</Name>
+ <RealName>Adv. Rampart NPC Shield (Class 2 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924819215</IDS>
+ <Name>npc_shield02_mark03</Name>
+ <RealName>Sconce NPC Shield (Class 3 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387992335</IDS>
+ <Name>npc_shield02_mark04</Name>
+ <RealName>Adv. Sconce NPC Shield (Class 4 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924858127</IDS>
+ <Name>npc_shield02_mark05</Name>
+ <RealName>Palisade NPC Shield (Class 5 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387982095</IDS>
+ <Name>npc_shield02_mark06</Name>
+ <RealName>Adv. Palisade NPC Shield (Class 6 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924847887</IDS>
+ <Name>npc_shield02_mark07</Name>
+ <RealName>Bulwark NPC Shield (Class 7 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387898127</IDS>
+ <Name>npc_shield02_mark08</Name>
+ <RealName>Adv. Bulwark NPC Shield (Class 8 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924772111</IDS>
+ <Name>npc_shield02_mark09</Name>
+ <RealName>Barrier NPC Shield (Class 9 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387693317</IDS>
+ <Name>npc_shield02_mark10</Name>
+ <RealName>Adv. Barrier NPC Shield (Class 10 Molecular)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387959566</IDS>
+ <Name>npc_shield03_mark01</Name>
+ <RealName>Armet NPC Shield (Class 1 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924815118</IDS>
+ <Name>npc_shield03_mark02</Name>
+ <RealName>Adv. Armet NPC Shield (Class 2 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387949326</IDS>
+ <Name>npc_shield03_mark03</Name>
+ <RealName>Cuisse NPC Shield (Class 3 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924862222</IDS>
+ <Name>npc_shield03_mark04</Name>
+ <RealName>Adv. Cuisse NPC Shield (Class 4 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387988238</IDS>
+ <Name>npc_shield03_mark05</Name>
+ <RealName>Pourpoint NPC Shield (Class 5 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924851982</IDS>
+ <Name>npc_shield03_mark06</Name>
+ <RealName>Adv. Pourpoint NPC Shield (Class 6 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387977998</IDS>
+ <Name>npc_shield03_mark07</Name>
+ <RealName>Aegis NPC Shield (Class 7 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924768014</IDS>
+ <Name>npc_shield03_mark08</Name>
+ <RealName>Adv. Aegis NPC Shield (Class 8 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2387902222</IDS>
+ <Name>npc_shield03_mark09</Name>
+ <RealName>Brigandine NPC Shield (Class 9 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2924563204</IDS>
+ <Name>npc_shield03_mark10</Name>
+ <RealName>Adv. Brigandine NPC Shield  (Class 10 Positron)</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2261435786</IDS>
+ <Name>order_shield</Name>
+ <RealName>Order H. F. Shield</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2927569930</IDS>
+ <Name>light_fighter_invulnerable_shield</Name>
+ <RealName>Light Fighter Uber Shield</RealName>
+</Shield>
+ 
+<Shield>
+ <IDS>2905454656</IDS>
+ <Name>heavy_fighter_invulnerable_shield</Name>
+ <RealName>Heavy Fighter Uber Shield</RealName>
+</Shield>
+ 
+</Shields>

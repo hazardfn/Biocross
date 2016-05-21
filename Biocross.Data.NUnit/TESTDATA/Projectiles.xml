@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Projectiles>
+ 
+<Projectile>
+ <IDS>3024599373</IDS>
+ <Name>missile01_mark01</Name>
+ <RealName>Javelin Missile Launcher (Class 1)</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>2487743822</IDS>
+ <Name>missile02_mark01</Name>
+ <RealName>Stalker Missile Launcher (Class 1)</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>3024613711</IDS>
+ <Name>missile03_mark01</Name>
+ <RealName>Eraser Missile Launcher (Class 1)</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>2487731533</IDS>
+ <Name>missile01_mark02</Name>
+ <RealName>Slingshot Missile Launcher (Class 3)</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>3024587086</IDS>
+ <Name>missile02_mark02</Name>
+ <RealName>Windstalker Launcher (Class 3)</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>2487717199</IDS>
+ <Name>missile03_mark02</Name>
+ <RealName>Sweeper Missile Launcher (Class 4)</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>3024605517</IDS>
+ <Name>missile01_mark03</Name>
+ <RealName>Catapult Missile Launcher (Class 5)</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>2487721294</IDS>
+ <Name>missile02_mark03</Name>
+ <RealName>Moonstalker Missile Launcher (Class 5)</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>3024591183</IDS>
+ <Name>missile03_mark03</Name>
+ <RealName>Neutralizer Missile Launcher (Class 7)</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>2487696717</IDS>
+ <Name>missile01_mark04</Name>
+ <RealName>Lancer Missile Launcher (Class 7)</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>3024580942</IDS>
+ <Name>missile02_mark04</Name>
+ <RealName>Sunstalker Missile Launcher (Class 7)</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>2487711055</IDS>
+ <Name>missile03_mark04</Name>
+ <RealName>Paralyzer Missile Launcher (Class 10)</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>3024562509</IDS>
+ <Name>missile01_mark05</Name>
+ <RealName>Cannonball Missle Launcher (Class 9)</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>2487706958</IDS>
+ <Name>missile02_mark05</Name>
+ <RealName>Firestalker Missile Launcher (Class 9)</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>2960932227</IDS>
+ <Name>torpedo01_mark01</Name>
+ <RealName>Starkiller Torpedo Launcher</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>2424062339</IDS>
+ <Name>torpedo01_mark02</Name>
+ <RealName>Sunslayer Torpedo Launcher</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>2690260224</IDS>
+ <Name>nomad_torpedo01_rtc</Name>
+ <RealName>Nomad Torpedo Launcher</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>3112104454</IDS>
+ <Name>cruise_disruptor01_mark01</Name>
+ <RealName>Wasp Cruise Disruptor Launcher</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>2575207942</IDS>
+ <Name>cruise_disruptor01_mark02</Name>
+ <RealName>Hornet Cruise Disruptor Launcher</RealName>
+</Projectile>
+ 
+<Projectile>
+ <IDS>2638824524</IDS>
+ <Name>nomad_cruise_disruptor01</Name>
+ <RealName>Nomad Cruise Disruptor</RealName>
+</Projectile>
+ 
+</Projectiles>

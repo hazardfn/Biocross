@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Thrusters>
+ 
+<Thruster>
+ <IDS>2314753344</IDS>
+ <Name>ge_s_thruster_01</Name>
+ <RealName>Standard Thruster</RealName>
+</Thruster>
+ 
+<Thruster>
+ <IDS>2851612992</IDS>
+ <Name>ge_s_thruster_02</Name>
+ <RealName>Deluxe Thruster</RealName>
+</Thruster>
+ 
+<Thruster>
+ <IDS>2314747200</IDS>
+ <Name>ge_s_thruster_03</Name>
+ <RealName>Heavy Thruster</RealName>
+</Thruster>
+ 
+<Thruster>
+ <IDS>2851656000</IDS>
+ <Name>ge_s_thruster_04</Name>
+ <RealName>Advanced Thruster</RealName>
+</Thruster>
+ 
+<Thruster>
+ <IDS>2328926920</IDS>
+ <Name>order_thruster</Name>
+ <RealName>Order Thruster</RealName>
+</Thruster>
+ 
+<Thruster>
+ <IDS>2347615178</IDS>
+ <Name>no_thruster</Name>
+ <RealName>Nomad Thruster</RealName>
+</Thruster>
+ 
+</Thrusters>

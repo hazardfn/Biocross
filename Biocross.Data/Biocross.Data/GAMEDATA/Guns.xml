@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Guns>
+ 
+<Gun>
+ <IDS>2797446218</IDS>
+ <Name>co_gun01_mark01</Name>
+ <RealName>Starbeam (Class 1)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3058004237</IDS>
+ <Name>fc_lr_gun01_mark01</Name>
+ <RealName>Azrael (Class 1)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2244256138</IDS>
+ <Name>fc_or_gun01_mark01_m1</Name>
+ <RealName>Death's Hand Mk I (Class 1)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3219265993</IDS>
+ <Name>li_gun01_mark01</Name>
+ <RealName>Justice Mk I (Class 1)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2682410442</IDS>
+ <Name>li_gun02_mark01</Name>
+ <RealName>Lavablade Mk I (Class 1)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2430115789</IDS>
+ <Name>rh_gun01_mark01_m1</Name>
+ <RealName>Stealthblade Mk I (Class 1)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2260588618</IDS>
+ <Name>co_gun01_mark02</Name>
+ <RealName>Adv. Starbeam (Class 2)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2988811471</IDS>
+ <Name>fc_x_gun01_mark01</Name>
+ <RealName>Scorpion (Class 2)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2661610701</IDS>
+ <Name>fc_j_gun01_mark01</Name>
+ <RealName>Barrager Mk I (Class 2)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2979767297</IDS>
+ <Name>gd_bh_gun01_mark01</Name>
+ <RealName>Gunslinger Mk I (Class 2)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2442913794</IDS>
+ <Name>gd_bh_gun02_mark01</Name>
+ <RealName>Brave Mk I (Class 2)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2682414537</IDS>
+ <Name>li_gun01_mark02</Name>
+ <RealName>Justice Mk II (Class 2)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3219270090</IDS>
+ <Name>li_gun02_mark02</Name>
+ <RealName>Lavablade Mk II (Class 2)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2797456458</IDS>
+ <Name>co_gun01_mark03</Name>
+ <RealName>Heavy Starbeam (Class 3)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2521107725</IDS>
+ <Name>fc_lr_gun01_mark02</Name>
+ <RealName>Drail (Class 3)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3118742732</IDS>
+ <Name>fc_g_gun01_mark01</Name>
+ <RealName>Avenger (Class 3)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2451953871</IDS>
+ <Name>fc_x_gun01_mark02</Name>
+ <RealName>Adv. Scorpion (Class 3)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2490151175</IDS>
+ <Name>gd_im_gun01_mark01</Name>
+ <RealName>Matterthief 1 (Class 3)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2957771599</IDS>
+ <Name>gd_z_gun01_mark01</Name>
+ <RealName>Helios (Class 3)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3219288521</IDS>
+ <Name>li_gun01_mark03</Name>
+ <RealName>Justice Mk III (Class 3)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2682404298</IDS>
+ <Name>li_gun02_mark03</Name>
+ <RealName>Lavablade Mk III (Class 3)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2430138317</IDS>
+ <Name>rh_gun01_mark01_m3</Name>
+ <RealName>Stealthblade Mk I (Class 3)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3198453965</IDS>
+ <Name>fc_j_gun01_mark02</Name>
+ <RealName>Barrager Mk II (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2581872844</IDS>
+ <Name>fc_g_gun01_mark02</Name>
+ <RealName>Avenger Type B (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3057981709</IDS>
+ <Name>fc_lr_gun01_mark03</Name>
+ <RealName>Raphael (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2506452174</IDS>
+ <Name>fc_u_gun01_mark01</Name>
+ <RealName>Protector Mk I (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3148043585</IDS>
+ <Name>fc_ou_gun01_mark01</Name>
+ <RealName>Dragoon Type 1 (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2259895305</IDS>
+ <Name>fc_gc_gun01_mark01</Name>
+ <RealName>Suncannon A (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2611157314</IDS>
+ <Name>fc_ou_gun02_mark01</Name>
+ <RealName>Pyros Type 1 (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2383495181</IDS>
+ <Name>fc_fa_gun01_mark01</Name>
+ <RealName>Vulture (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3027029255</IDS>
+ <Name>gd_im_gun01_mark02</Name>
+ <RealName>Matterthief 2 (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2682428873</IDS>
+ <Name>li_gun01_mark04</Name>
+ <RealName>Vengeance Mk I (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2442909697</IDS>
+ <Name>gd_bh_gun01_mark02</Name>
+ <RealName>Gunslinger Mk II (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3219313098</IDS>
+ <Name>li_gun02_mark04</Name>
+ <RealName>Magma Hammer Mk I (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2979763202</IDS>
+ <Name>gd_bh_gun02_mark02</Name>
+ <RealName>Brave Mk II (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2782804045</IDS>
+ <Name>br_gun01_mark01</Name>
+ <RealName>Ripper (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2420932431</IDS>
+ <Name>gd_z_gun01_mark02</Name>
+ <RealName>Helios 2 (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2245948494</IDS>
+ <Name>br_gun02_mark01</Name>
+ <RealName>Skyrail (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3099894030</IDS>
+ <Name>fc_lh_gun01_mark01</Name>
+ <RealName>Hellflurry Mk I (Class 4)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2521167117</IDS>
+ <Name>fc_lr_gun01_mark04</Name>
+ <RealName>Usiel (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3118748876</IDS>
+ <Name>fc_g_gun01_mark03</Name>
+ <RealName>Gaia's Savior (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2611161409</IDS>
+ <Name>fc_ou_gun01_mark02</Name>
+ <RealName>Dragoon Type 2 (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2482237707</IDS>
+ <Name>fc_lwb_gun01_mark01</Name>
+ <RealName>Devastator (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3148047682</IDS>
+ <Name>fc_ou_gun02_mark02</Name>
+ <RealName>Pyros Type 2 (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2920365069</IDS>
+ <Name>fc_fa_gun01_mark02</Name>
+ <RealName>Vulture 2 (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2833538252</IDS>
+ <Name>fc_c_gun01_mark01</Name>
+ <RealName>Angelito Mk I (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2988821711</IDS>
+ <Name>fc_x_gun01_mark03</Name>
+ <RealName>Tarantula (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2523073857</IDS>
+ <Name>fc_or_gun01_mark01</Name>
+ <RealName>Death's Hand Mk I (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3219294665</IDS>
+ <Name>li_gun01_mark05</Name>
+ <RealName>Vengeance Mk II (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3059958082</IDS>
+ <Name>fc_or_gun02_mark01</Name>
+ <RealName>Reaper Mk I (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2682439114</IDS>
+ <Name>li_gun02_mark05</Name>
+ <RealName>Magma Hammer Mk II (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3111877128</IDS>
+ <Name>fc_rh_gun01_mark01</Name>
+ <RealName>Natter (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2245936205</IDS>
+ <Name>br_gun01_mark02</Name>
+ <RealName>Adv. Ripper (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2335807624</IDS>
+ <Name>fc_bd_gun01_mark01</Name>
+ <RealName>Tanto (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2782791758</IDS>
+ <Name>br_gun02_mark02</Name>
+ <RealName>Adv. Skyrail (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2563038478</IDS>
+ <Name>fc_lh_gun01_mark02</Name>
+ <RealName>Hellflurry Mk II (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2829931779</IDS>
+ <Name>ku_gun01_mark01</Name>
+ <RealName>Scrambler 1 (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3009719501</IDS>
+ <Name>fc_m_gun01_mark01</Name>
+ <RealName>Dublin Duster Mk I (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2293045504</IDS>
+ <Name>ku_gun02_mark01</Name>
+ <RealName>Sunfury 1 (Class 5)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2661588173</IDS>
+ <Name>fc_j_gun01_mark03</Name>
+ <RealName>Barrager Mk III (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2581903564</IDS>
+ <Name>fc_g_gun01_mark04</Name>
+ <RealName>Gaia's Savior Type B (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3148037441</IDS>
+ <Name>fc_ou_gun01_mark03</Name>
+ <RealName>Dragoon Type 3 (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3043299534</IDS>
+ <Name>fc_u_gun01_mark02</Name>
+ <RealName>Protector Mk II (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2611179842</IDS>
+ <Name>fc_ou_gun02_mark03</Name>
+ <RealName>Pyros Type 3 (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2796763145</IDS>
+ <Name>fc_gc_gun01_mark02</Name>
+ <RealName>Suncannon B (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2296651980</IDS>
+ <Name>fc_c_gun01_mark02</Name>
+ <RealName>Angelito Mk II (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3019083019</IDS>
+ <Name>fc_lwb_gun01_mark02</Name>
+ <RealName>Adv. Devastator (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3059970369</IDS>
+ <Name>fc_or_gun01_mark02</Name>
+ <RealName>Death's Hand Mk II (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2383489037</IDS>
+ <Name>fc_fa_gun01_mark03</Name>
+ <RealName>Vulture 3 (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2523086146</IDS>
+ <Name>fc_or_gun02_mark02</Name>
+ <RealName>Reaper Mk II (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2451906767</IDS>
+ <Name>fc_x_gun01_mark04</Name>
+ <RealName>Adv. Tarantula (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2492557440</IDS>
+ <Name>gd_gm_gun01_mark01</Name>
+ <RealName>Sunblast A (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2682451401</IDS>
+ <Name>li_gun01_mark06</Name>
+ <RealName>Vengeance Mk III (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2490161415</IDS>
+ <Name>gd_im_gun01_mark03</Name>
+ <RealName>Vampire 1 (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2222540935</IDS>
+ <Name>li_gun01_mark06_m11</Name>
+ <RealName>Vengeance Mk III (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2979777537</IDS>
+ <Name>gd_bh_gun01_mark03</Name>
+ <RealName>Winchester Mk I (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3219306954</IDS>
+ <Name>li_gun02_mark06</Name>
+ <RealName>Magma Hammer Mk III (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2442887170</IDS>
+ <Name>gd_bh_gun02_mark03</Name>
+ <RealName>Warrior Mk I (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2782810189</IDS>
+ <Name>br_gun01_mark03</Name>
+ <RealName>Dissolver (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2574976520</IDS>
+ <Name>fc_rh_gun01_mark02</Name>
+ <RealName>Natter Zwei (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2245925966</IDS>
+ <Name>br_gun02_mark03</Name>
+ <RealName>Sunrail (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2872697992</IDS>
+ <Name>fc_bd_gun01_mark02</Name>
+ <RealName>Wakizashi (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2293049603</IDS>
+ <Name>ku_gun01_mark02</Name>
+ <RealName>Scrambler 2 (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3164894412</IDS>
+ <Name>fc_b_gun01_mark01</Name>
+ <RealName>Luger Type A (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2829935872</IDS>
+ <Name>ku_gun02_mark02</Name>
+ <RealName>Sunfury 2 (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2957798223</IDS>
+ <Name>gd_z_gun01_mark03</Name>
+ <RealName>Fury (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2854087375</IDS>
+ <Name>rh_gun01_mark01</Name>
+ <RealName>Stealthblade Mk I (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3099904270</IDS>
+ <Name>fc_lh_gun01_mark03</Name>
+ <RealName>Hellflurry Mk III (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2317199052</IDS>
+ <Name>rh_gun02_mark01</Name>
+ <RealName>Flamecurse Mk I (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3055871181</IDS>
+ <Name>fc_h_gun01_mark01</Name>
+ <RealName>Drake Type A (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2260541514</IDS>
+ <Name>co_gun01_mark04</Name>
+ <RealName>Flashpoint (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2472857805</IDS>
+ <Name>fc_m_gun01_mark02</Name>
+ <RealName>Dublin Duster Mk II (Class 6)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3058032909</IDS>
+ <Name>fc_lr_gun01_mark05</Name>
+ <RealName>Vassago (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2518980813</IDS>
+ <Name>fc_h_gun01_mark02</Name>
+ <RealName>Drake Type B (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2833528012</IDS>
+ <Name>fc_c_gun01_mark03</Name>
+ <RealName>Angelito Mk III (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3009725645</IDS>
+ <Name>fc_m_gun01_mark03</Name>
+ <RealName>Dublin Duster Mk III (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2523096385</IDS>
+ <Name>fc_or_gun01_mark03</Name>
+ <RealName>Death's Hand Mk III (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2482215179</IDS>
+ <Name>fc_lwb_gun01_mark03</Name>
+ <RealName>Eliminator (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3059951938</IDS>
+ <Name>fc_or_gun02_mark03</Name>
+ <RealName>Reaper Mk III (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2245966925</IDS>
+ <Name>br_gun01_mark04</Name>
+ <RealName>Adv. Dissolver (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3029406848</IDS>
+ <Name>gd_gm_gun01_mark02</Name>
+ <RealName>Sunblast B (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2782851150</IDS>
+ <Name>br_gun02_mark04</Name>
+ <RealName>Adv. Sunrail (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3026990343</IDS>
+ <Name>gd_im_gun01_mark04</Name>
+ <RealName>Vampire 2 (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2829925635</IDS>
+ <Name>ku_gun01_mark03</Name>
+ <RealName>Disinfector 1 (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2442862593</IDS>
+ <Name>gd_bh_gun01_mark04</Name>
+ <RealName>Winchester Mk II (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2293068032</IDS>
+ <Name>ku_gun02_mark03</Name>
+ <RealName>Sunfrenzy 1 (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2979752962</IDS>
+ <Name>gd_bh_gun02_mark04</Name>
+ <RealName>Warrior Mk II (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2317194959</IDS>
+ <Name>rh_gun01_mark02</Name>
+ <RealName>Stealthblade Mk II (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3111850504</IDS>
+ <Name>fc_rh_gun01_mark03</Name>
+ <RealName>Roter Blitz (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2854083276</IDS>
+ <Name>rh_gun02_mark02</Name>
+ <RealName>Flamecurse Mk II (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2335830152</IDS>
+ <Name>fc_bd_gun01_mark03</Name>
+ <RealName>Katana (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2797417546</IDS>
+ <Name>co_gun01_mark05</Name>
+ <RealName>Adv. Flashpoint (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2627995852</IDS>
+ <Name>fc_b_gun01_mark02</Name>
+ <RealName>Luger Type B (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2639898956</IDS>
+ <Name>special_nomad_gun03</Name>
+ <RealName>Nomad Prototype (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2420934479</IDS>
+ <Name>gd_z_gun01_mark04</Name>
+ <RealName>Fury 2 (Class 7)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2611204417</IDS>
+ <Name>fc_ou_gun01_mark04</Name>
+ <RealName>Wyrm Type 1 (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3055848653</IDS>
+ <Name>fc_h_gun01_mark03</Name>
+ <RealName>Drake Type C (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3148062018</IDS>
+ <Name>fc_ou_gun02_mark04</Name>
+ <RealName>Kraken Type 1 (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2506425550</IDS>
+ <Name>fc_u_gun01_mark03</Name>
+ <RealName>Protector Mk III (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2296699084</IDS>
+ <Name>fc_c_gun01_mark04</Name>
+ <RealName>Salamanca Mk I (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2259889161</IDS>
+ <Name>fc_gc_gun01_mark03</Name>
+ <RealName>Suncannon C (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2492530816</IDS>
+ <Name>gd_gm_gun01_mark03</Name>
+ <RealName>Skyblast A (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3019076875</IDS>
+ <Name>fc_lwb_gun01_mark04</Name>
+ <RealName>Adv. Eliminator (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2490114311</IDS>
+ <Name>gd_im_gun01_mark05</Name>
+ <RealName>Vampire 3 (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2293092611</IDS>
+ <Name>ku_gun01_mark04</Name>
+ <RealName>Disinfector 2 (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2979738625</IDS>
+ <Name>gd_bh_gun01_mark05</Name>
+ <RealName>Reaver Mk I (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2829950208</IDS>
+ <Name>ku_gun02_mark04</Name>
+ <RealName>Sunfrenzy 2 (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2575040008</IDS>
+ <Name>fc_rh_gun01_mark04</Name>
+ <RealName>Natterturn (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2854060751</IDS>
+ <Name>rh_gun01_mark03</Name>
+ <RealName>Hornviper Mk I (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2872646792</IDS>
+ <Name>fc_bd_gun01_mark04</Name>
+ <RealName>Gendaito (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2317209292</IDS>
+ <Name>rh_gun02_mark03</Name>
+ <RealName>Firekiss Mk I (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3164871884</IDS>
+ <Name>fc_b_gun01_mark03</Name>
+ <RealName>Luger Type C (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2260551754</IDS>
+ <Name>co_gun01_mark06</Name>
+ <RealName>Heavy Flashpoint (Class 8)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2957808463</IDS>
+ <Name>gd_z_gun01_mark05</Name>
+ <RealName>Fury 3 (Class 8) </RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3148072257</IDS>
+ <Name>fc_ou_gun01_mark05</Name>
+ <RealName>Wyrm Type 2 (Class 9)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2442872833</IDS>
+ <Name>gd_bh_gun01_mark06</Name>
+ <RealName>Reaver Mk II (Class 9)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2611185986</IDS>
+ <Name>fc_ou_gun02_mark05</Name>
+ <RealName>Kraken Type 2 (Class 9)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2442885122</IDS>
+ <Name>gd_bh_gun02_mark05</Name>
+ <RealName>Buckshot (Class 9)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2833566924</IDS>
+ <Name>fc_c_gun01_mark05</Name>
+ <RealName>Salamanca Mk II (Class 9)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2317184719</IDS>
+ <Name>rh_gun01_mark04</Name>
+ <RealName>Hornviper Mk II (Class 9)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3029462144</IDS>
+ <Name>gd_gm_gun01_mark04</Name>
+ <RealName>Skyblast B (Class 9)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2854036172</IDS>
+ <Name>rh_gun02_mark04</Name>
+ <RealName>Firekiss Mk II (Class 9)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2639905100</IDS>
+ <Name>special_nomad_gun01</Name>
+ <RealName>Nomad Energy Blaster (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2315037635</IDS>
+ <Name>special_gun08</Name>
+ <RealName>BLUE BLAZE (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3176774988</IDS>
+ <Name>special_nomad_gun02</Name>
+ <RealName>Nomad Energy Cannon (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2851913667</IDS>
+ <Name>special_gun09</Name>
+ <RealName>DARK BLOSSOM (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2851971011</IDS>
+ <Name>special_gun01</Name>
+ <RealName>ONYX (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2314832841</IDS>
+ <Name>special_gun10</Name>
+ <RealName>WILD FIRE (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2315117507</IDS>
+ <Name>special_gun02</Name>
+ <RealName>BLOODSTONE (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2851708873</IDS>
+ <Name>special_gun11</Name>
+ <RealName>THOR'S HAMMER (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2851993539</IDS>
+ <Name>special_gun03</Name>
+ <RealName>JADE (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2314855369</IDS>
+ <Name>special_gun12</Name>
+ <RealName>PROMETHEUS (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2315066307</IDS>
+ <Name>special_gun04</Name>
+ <RealName>DIAMONDBACK (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2851731401</IDS>
+ <Name>special_gun13</Name>
+ <RealName>GUARDIAN (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2851934147</IDS>
+ <Name>special_gun05</Name>
+ <RealName>IRON HAMMER (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2314804169</IDS>
+ <Name>special_gun14</Name>
+ <RealName>CERBERUS (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2315088835</IDS>
+ <Name>special_gun06</Name>
+ <RealName>SILVER FIRE (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2851672009</IDS>
+ <Name>special_gun15</Name>
+ <RealName>ARCHANGEL (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2851956675</IDS>
+ <Name>special_gun07</Name>
+ <RealName>GOLDEN BLADE (Class 10)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2260592713</IDS>
+ <Name>co_gun02_mark01</Name>
+ <RealName>Stunpulse (Class 2 ShieldBuster)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2797442121</IDS>
+ <Name>co_gun02_mark02</Name>
+ <RealName>Adv. Stunpulse (Class 3 ShieldBuster)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2296647887</IDS>
+ <Name>fc_c_gun02_mark01</Name>
+ <RealName>Borroco (Class 5 ShieldBuster)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2260566089</IDS>
+ <Name>co_gun02_mark03</Name>
+ <RealName>Debilitator (Class 7 ShieldBuster)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2833542351</IDS>
+ <Name>fc_c_gun02_mark02</Name>
+ <RealName>Rapier (Class 7 ShieldBuster)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2797431881</IDS>
+ <Name>co_gun02_mark04</Name>
+ <RealName>Adv. Debilitator (Class 8 ShieldBuster)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2296674511</IDS>
+ <Name>fc_c_gun02_mark03</Name>
+ <RealName>Tizona del Cid (Class 9 ShieldBuster)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2462994121</IDS>
+ <Name>nomad_gun01_mark01</Name>
+ <RealName>Nomad Laser Gun (1)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2999857865</IDS>
+ <Name>nomad_gun01_mark02</Name>
+ <RealName>Nomad Laser Gun (2)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2462983881</IDS>
+ <Name>nomad_gun01_mark03</Name>
+ <RealName>Nomad Laser Gun (3)</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2687356491</IDS>
+ <Name>cloak_fighter</Name>
+ <RealName>FIGHTER CLOAKING DEVICE</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2920046982</IDS>
+ <Name>cloak_nomad</Name>
+ <RealName>NOMAD CLOAKING DEVICE</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2225647363</IDS>
+ <Name>cloak_nomad_srtc</Name>
+ <RealName>NOMAD SRTC CLOAKING DEVICE</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2166755721</IDS>
+ <Name>cloak_gunboat</Name>
+ <RealName>GUNBOAT CLOAKING DEVICE</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3165955661</IDS>
+ <Name>cloak_cruiser</Name>
+ <RealName>CRUISER CLOAKING DEVICE</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2323837061</IDS>
+ <Name>cloak_battleship</Name>
+ <RealName>BATTLESHIP CLOAKING DEVICE</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3202777994</IDS>
+ <Name>cloak_nomad_gunboat</Name>
+ <RealName>NOMAD GUNBOAT CLOAKING DEVICE</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>3042973318</IDS>
+ <Name>cloak_nomad_battleship</Name>
+ <RealName>NOMAD BATTLESHIP CLOAKING DEVICE</RealName>
+</Gun>
+ 
+<Gun>
+ <IDS>2179547074</IDS>
+ <Name>cloak_osiris</Name>
+ <RealName>OSIRIS CLOAKING DEVICE</RealName>
+</Gun>
+ 
+</Guns>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3593CD74-AE97-4190-B9F0-069F4047310D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Biocross.Core</RootNamespace>
+    <AssemblyName>Biocross.Core</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>true</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Globe.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Item\Turret.cs" />
+    <Compile Include="Item\TractorBeam.cs" />
+    <Compile Include="Item\Thruster.cs" />
+    <Compile Include="Item\System.cs" />
+    <Compile Include="Item\Ship.cs" />
+    <Compile Include="Item\Shield.cs" />
+    <Compile Include="Item\Scanner.cs" />
+    <Compile Include="Item\Projectile.cs" />
+    <Compile Include="Item\Power.cs" />
+    <Compile Include="Item\Misc.cs" />
+    <Compile Include="Item\Mine.cs" />
+    <Compile Include="Item\Light.cs" />
+    <Compile Include="Item\Gun.cs" />
+    <Compile Include="Item\Engine.cs" />
+    <Compile Include="Item\Countermeasure.cs" />
+    <Compile Include="Item\Base.cs" />
+    <Compile Include="Item\Ammo.cs" />
+    <Compile Include="Item\Cargo.cs" />
+    <Compile Include="Exceptions\GamedataMismatchException.cs" />
+    <Compile Include="Gamedata.cs" />
+    <Compile Include="Item\Faction.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FLAdmin.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="FLCodec.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="flhash.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Globe.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Biocross.Data\Biocross.Data\Biocross.Data.csproj">
+      <Project>{86fde62a-0152-43a3-a8ed-485464b1f374}</Project>
+      <Name>Biocross.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Biocross.Log.FileBackend\Biocross.Log.FileBackend.csproj">
+      <Project>{2c5bddf1-ebf9-49e5-bece-1268e01523b7}</Project>
+      <Name>Biocross.Log.FileBackend</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Biocross.Log\Biocross.Log.csproj">
+      <Project>{8d1b6b38-c767-4dc7-b6bd-81880299e2e5}</Project>
+      <Name>Biocross.Log</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Turrets>
+ 
+<Turret>
+ <IDS>2472077709</IDS>
+ <Name>fc_lr_turret01_mark01</Name>
+ <RealName>Zaphiel Turret (Class 1)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3161989646</IDS>
+ <Name>li_turret01_mark01</Name>
+ <RealName>Justice Turret Mk I (Class 1)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2759818753</IDS>
+ <Name>co_turret01_mark01</Name>
+ <RealName>Starbeam Turret (Class 1)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2625138189</IDS>
+ <Name>li_turret02_mark01</Name>
+ <RealName>Lavablade Turret Mk I (Class 1)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2950730184</IDS>
+ <Name>fc_j_turret01_mark01</Name>
+ <RealName>Barrager Turret Mk I (Class 2)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2900244931</IDS>
+ <Name>gd_bh_turret01_mark01</Name>
+ <RealName>Gunslinger Turret Mk I (class 2)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3008927117</IDS>
+ <Name>fc_lr_turret01_mark02</Name>
+ <RealName>Badariel Turret (Class 3)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2625134094</IDS>
+ <Name>li_turret01_mark02</Name>
+ <RealName>Justice Turret Mk II (Class 3)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2913399106</IDS>
+ <Name>gd_im_turret01_mark01</Name>
+ <RealName>Matterthief Turret (Class 3)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3161985549</IDS>
+ <Name>li_turret02_mark02</Name>
+ <RealName>Lavablade Turret Mk II (Class 3)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2617748622</IDS>
+ <Name>loot_turret01</Name>
+ <RealName>Rowlett's Revenge (Class 3)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2222916097</IDS>
+ <Name>co_turret01_mark02</Name>
+ <RealName>Adv. Starbeam Turret (Class 3)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2413882824</IDS>
+ <Name>fc_j_turret01_mark02</Name>
+ <RealName>Barrager Turret Mk II (Class 4)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2363389376</IDS>
+ <Name>gd_bh_turret02_mark01</Name>
+ <RealName>Brave Turret (Class 4)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2959745095</IDS>
+ <Name>fc_ou_turret01_mark01</Name>
+ <RealName>Dragoon Turret Type 1 (Class 4)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2509614920</IDS>
+ <Name>gd_z_turret01_mark01</Name>
+ <RealName>Helios Turret (Class 4)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2422893636</IDS>
+ <Name>fc_ou_turret02_mark01</Name>
+ <RealName>Pyros Turret Type 1 (Class 4)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2259240647</IDS>
+ <Name>br_turret01_mark01</Name>
+ <RealName>Ripper Turret (Class 4)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3089894851</IDS>
+ <Name>fc_lh_turret01_mark01</Name>
+ <RealName>Hellflurry Turret Mk I (Class 4)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2796096196</IDS>
+ <Name>br_turret02_mark01</Name>
+ <RealName>Skyrail Turret (Class 4)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2363377091</IDS>
+ <Name>gd_bh_turret01_mark02</Name>
+ <RealName>Gunslinger Turret Mk II (Class 4)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2472051085</IDS>
+ <Name>fc_lr_turret01_mark03</Name>
+ <RealName>Sapiel Turret (Class 5)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2259252932</IDS>
+ <Name>br_turret02_mark02</Name>
+ <RealName>Adv. Skyrail Turret (Class 5)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3120401870</IDS>
+ <Name>fc_rh_turret01_mark01</Name>
+ <RealName>Natter Turret (Class 5)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2329930695</IDS>
+ <Name>fc_c_turret01_mark01</Name>
+ <RealName>Angelito Turret Mk I (Class 5)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3161999886</IDS>
+ <Name>li_turret01_mark03</Name>
+ <RealName>Vengeance Turret (Class 5)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2896229966</IDS>
+ <Name>fc_or_turret01_mark01</Name>
+ <RealName>Death's Hand Turret Mk I (Class 5)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2768965381</IDS>
+ <Name>ku_turret01_mark01</Name>
+ <RealName>Scrambler Turret 1 (Class 5)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2359343693</IDS>
+ <Name>fc_or_turret02_mark01</Name>
+ <RealName>Reaper Turret Mk I (Class 5)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2232107782</IDS>
+ <Name>ku_turret02_mark01</Name>
+ <RealName>Sunfury Turret 1 (Class 5)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3005892545</IDS>
+ <Name>fc_m_turret01_mark01</Name>
+ <RealName>Dublin Duster Turret Mk I (Class 5)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2796108487</IDS>
+ <Name>br_turret01_mark02</Name>
+ <RealName>Adv. Ripper Turret (Class 5)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2625111565</IDS>
+ <Name>li_turret02_mark03</Name>
+ <RealName>Magma Hammer Turret (Class 5)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3088456655</IDS>
+ <Name>gd_gm_turret01_mark01</Name>
+ <RealName>Sunblast Turret (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2950756808</IDS>
+ <Name>fc_j_turret01_mark03</Name>
+ <RealName>Barrager Turret Mk III (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2376502594</IDS>
+ <Name>gd_im_turret01_mark02</Name>
+ <RealName>Vampire Turret 1 (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2422889543</IDS>
+ <Name>fc_ou_turret01_mark02</Name>
+ <RealName>Dragoon Turret Type 2 (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2900251075</IDS>
+ <Name>gd_bh_turret01_mark03</Name>
+ <RealName>Winchester Turret (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2959740996</IDS>
+ <Name>fc_ou_turret02_mark02</Name>
+ <RealName>Pyros Turret Type 2 (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2619596617</IDS>
+ <Name>fc_bd_turret01_mark01</Name>
+ <RealName>Tanto Turret (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2395636173</IDS>
+ <Name>fc_b_turret01_mark01</Name>
+ <RealName>Luger Turret Type A (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3046495048</IDS>
+ <Name>gd_z_turret01_mark02</Name>
+ <RealName>Fury Turret (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2553049539</IDS>
+ <Name>fc_lh_turret01_mark02</Name>
+ <RealName>Hellflurry Turret Mk II (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2259234503</IDS>
+ <Name>br_turret01_mark03</Name>
+ <RealName>Dissolver Turret (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2812937673</IDS>
+ <Name>fc_h_turret01_mark01</Name>
+ <RealName>Drake Turret Type A (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2796118724</IDS>
+ <Name>br_turret02_mark03</Name>
+ <RealName>Sunrail Turret (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3116156937</IDS>
+ <Name>rh_turret01_mark01</Name>
+ <RealName>Stealthblade Turret Mk I (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2232120069</IDS>
+ <Name>ku_turret01_mark02</Name>
+ <RealName>Scrambler Turret 2 (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2579268618</IDS>
+ <Name>rh_turret02_mark01</Name>
+ <RealName>Flamecurse Turret Mk I (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2768977670</IDS>
+ <Name>ku_turret02_mark02</Name>
+ <RealName>Sunfury Turret 2 (Class 6)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3008916877</IDS>
+ <Name>fc_lr_turret01_mark04</Name>
+ <RealName>Thoth Turret (Class 7)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2866780103</IDS>
+ <Name>fc_c_turret01_mark02</Name>
+ <RealName>Angelito Turret Mk II (Class 7)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2900232640</IDS>
+ <Name>gd_bh_turret02_mark02</Name>
+ <RealName>Warrior Turret (Class 7)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2359331406</IDS>
+ <Name>fc_or_turret01_mark02</Name>
+ <RealName>Death's Hand Turret Mk II (Class 7)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2583556558</IDS>
+ <Name>fc_rh_turret01_mark02</Name>
+ <RealName>Roter Blitz Turret (Class 7)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2896217677</IDS>
+ <Name>fc_or_turret02_mark02</Name>
+ <RealName>Reaper Turret Mk II (Class 7)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2768987909</IDS>
+ <Name>ku_turret01_mark03</Name>
+ <RealName>Disinfector Turret (Class 7)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2469018561</IDS>
+ <Name>fc_m_turret01_mark02</Name>
+ <RealName>Dublin Duster Turret Mk II (Class 7)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2232101638</IDS>
+ <Name>ku_turret02_mark03</Name>
+ <RealName>Sunfrenzy Turret (Class 7)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2579280905</IDS>
+ <Name>rh_turret01_mark02</Name>
+ <RealName>Stealthblade Turret Mk II (Class 7)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2759792129</IDS>
+ <Name>co_turret01_mark03</Name>
+ <RealName>Flashpoint Turret (Class 7)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3116169226</IDS>
+ <Name>rh_turret02_mark02</Name>
+ <RealName>Flamecurse Turret Mk II (Class 7)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2959755335</IDS>
+ <Name>fc_ou_turret01_mark03</Name>
+ <RealName>Wyrm Turret (Class 8)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2551605199</IDS>
+ <Name>gd_gm_turret01_mark02</Name>
+ <RealName>Skyblast Turret A (Class 8)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2422867012</IDS>
+ <Name>fc_ou_turret02_mark03</Name>
+ <RealName>Kraken Turret (Class 8)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2913376578</IDS>
+ <Name>gd_im_turret01_mark03</Name>
+ <RealName>Vampire Turret 2 (Class 8)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2363407811</IDS>
+ <Name>gd_bh_turret01_mark04</Name>
+ <RealName>Reaver Turret (Class 8)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2932538829</IDS>
+ <Name>fc_b_turret01_mark02</Name>
+ <RealName>Luger Turret Type B (Class 8)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3156452169</IDS>
+ <Name>fc_bd_turret01_mark02</Name>
+ <RealName>Katana Turret (Class 8)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2276096457</IDS>
+ <Name>fc_h_turret01_mark02</Name>
+ <RealName>Drake Turret Type B (Class 8)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2509621064</IDS>
+ <Name>gd_z_turret01_mark03</Name>
+ <RealName>Fury 2 Turret (Class 8)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3116146697</IDS>
+ <Name>rh_turret01_mark03</Name>
+ <RealName>Hornviper Turret (Class 8)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2579295242</IDS>
+ <Name>rh_turret02_mark03</Name>
+ <RealName>Firekiss Turret (Class 8)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2329904071</IDS>
+ <Name>fc_c_turret01_mark03</Name>
+ <RealName>Salamanca Turret (Class 9)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3088479183</IDS>
+ <Name>gd_gm_turret01_mark03</Name>
+ <RealName>Skyblast Turret B (Class 9)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2363366848</IDS>
+ <Name>gd_bh_turret02_mark03</Name>
+ <RealName>Buckshot Turret (Class 9)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2222928386</IDS>
+ <Name>co_turret02_mark01</Name>
+ <RealName>Stunpulse Turret (Class 2 ShieldBuster)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2759806466</IDS>
+ <Name>co_turret02_mark02</Name>
+ <RealName>Debilitator Turret (Class 6 ShieldBuster)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2866784196</IDS>
+ <Name>fc_c_turret02_mark01</Name>
+ <RealName>Borroco Turret (Class 6 ShieldBuster)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2222938626</IDS>
+ <Name>co_turret02_mark03</Name>
+ <RealName>Adv. Debilitator Turret (Class 8 ShieldBuster)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2329926596</IDS>
+ <Name>fc_c_turret02_mark02</Name>
+ <RealName>Rapier Turret (Class 8 ShieldBuster)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3128251332</IDS>
+ <Name>nomad_turret01_mark01</Name>
+ <RealName>Nomad Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2429043590</IDS>
+ <Name>nomad_dyson_turret01</Name>
+ <RealName>Nomad Dyson Sphere Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2808190216</IDS>
+ <Name>nomad_lair_turret01</Name>
+ <RealName>Nomad Lair Turret (1)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2271340808</IDS>
+ <Name>nomad_lair_turret02</Name>
+ <RealName>Nomad Lair Turret (2)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2276366220</IDS>
+ <Name>gd_gm_transport_turret01_mark01</Name>
+ <RealName>Mk I Turret (Small Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2201294668</IDS>
+ <Name>gd_im_transport_turret01_mark01</Name>
+ <RealName>Mk I Turret (Small Transport) </RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3018812172</IDS>
+ <Name>co_transport_turret01_mark01</Name>
+ <RealName>Mk I Turret (Small Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2813258636</IDS>
+ <Name>gd_gm_transport_turret01_mark02</Name>
+ <RealName>Mk II Turret (Small Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2738187084</IDS>
+ <Name>gd_im_transport_turret01_mark02</Name>
+ <RealName>Mk II Turret (Small Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2481919756</IDS>
+ <Name>co_transport_turret01_mark02</Name>
+ <RealName>Mk II Turret (Small Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2276392844</IDS>
+ <Name>gd_gm_transport_turret01_mark03</Name>
+ <RealName>Mk III Turret (Small Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2201321292</IDS>
+ <Name>gd_im_transport_turret01_mark03</Name>
+ <RealName>Mk III Turret (Small Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3018785548</IDS>
+ <Name>co_transport_turret01_mark03</Name>
+ <RealName>Mk III Turret (Small Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2813254543</IDS>
+ <Name>gd_gm_transport_turret02_mark01</Name>
+ <RealName>Mk I Turret (Large Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2738182991</IDS>
+ <Name>gd_im_transport_turret02_mark01</Name>
+ <RealName>Mk I Turret (Large Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2481923855</IDS>
+ <Name>co_transport_turret02_mark01</Name>
+ <RealName>Mk I Turret (Large Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2276370319</IDS>
+ <Name>gd_gm_transport_turret02_mark02</Name>
+ <RealName>Mk II Turret (Large Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2201298767</IDS>
+ <Name>gd_im_transport_turret02_mark02</Name>
+ <RealName>Mk II Turret (Large Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3018808079</IDS>
+ <Name>co_transport_turret02_mark02</Name>
+ <RealName>Mk II Turret (Large Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2813244303</IDS>
+ <Name>gd_gm_transport_turret02_mark03</Name>
+ <RealName>Mk III Turret (Large Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2738172751</IDS>
+ <Name>gd_im_transport_turret02_mark03</Name>
+ <RealName>Mk III Turret (Large Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2481934095</IDS>
+ <Name>co_transport_turret02_mark03</Name>
+ <RealName>Mk III Turret (Large Transport)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3098094157</IDS>
+ <Name>gd_gm_train_turret01_mark01</Name>
+ <RealName>Mk I Turret (Small Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3164883915</IDS>
+ <Name>gd_im_train_turret01_mark01</Name>
+ <RealName>Mk I Turret (Small Train)              </RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2975699912</IDS>
+ <Name>co_train_turret01_mark01</Name>
+ <RealName>Mk I Turret (Small Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2561234509</IDS>
+ <Name>gd_gm_train_turret01_mark02</Name>
+ <RealName>Mk II Turret (Small Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2628007883</IDS>
+ <Name>gd_im_train_turret01_mark02</Name>
+ <RealName>Mk II Turret (Small Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2438852552</IDS>
+ <Name>co_train_turret01_mark02</Name>
+ <RealName>Mk II Turret (Small Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3098100301</IDS>
+ <Name>gd_gm_train_turret01_mark03</Name>
+ <RealName>Mk III Turret Type 1 (Small Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3164873675</IDS>
+ <Name>gd_im_train_turret01_mark03</Name>
+ <RealName>Mk III Turret Type 1 (Small Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2975726536</IDS>
+ <Name>co_train_turret01_mark03</Name>
+ <RealName>Mk III Turret Type 1 (Small Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2561216078</IDS>
+ <Name>gd_gm_train_turret02_mark03</Name>
+ <RealName>Mk III Turret Type 2 (Small Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2628022216</IDS>
+ <Name>gd_im_train_turret02_mark03</Name>
+ <RealName>Mk III Turret Type 2 (Small Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2438838219</IDS>
+ <Name>co_train_turret02_mark03</Name>
+ <RealName>Mk III Turret Type 2 (Small Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2561238606</IDS>
+ <Name>gd_gm_train_turret02_mark01</Name>
+ <RealName>Mk I Turret (Medium Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2627995592</IDS>
+ <Name>gd_im_train_turret02_mark01</Name>
+ <RealName>Mk I Turret (Medium Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2438848459</IDS>
+ <Name>co_train_turret02_mark01</Name>
+ <RealName>Mk I Turret (Medium Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3098090062</IDS>
+ <Name>gd_gm_train_turret02_mark02</Name>
+ <RealName>Mk II Turret (Medium Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3164896200</IDS>
+ <Name>gd_im_train_turret02_mark02</Name>
+ <RealName>Mk II Turret (Medium Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2975704011</IDS>
+ <Name>co_train_turret02_mark02</Name>
+ <RealName>Mk II Turret (Medium Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3098108495</IDS>
+ <Name>gd_gm_train_turret03_mark01</Name>
+ <RealName>Mk I Turret (Large Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3164865481</IDS>
+ <Name>gd_im_train_turret03_mark01</Name>
+ <RealName>Mk I Turret (Large Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2975718346</IDS>
+ <Name>co_train_turret03_mark01</Name>
+ <RealName>Mk I Turret (Large Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2561220175</IDS>
+ <Name>gd_gm_train_turret03_mark02</Name>
+ <RealName>Mk II Turret (Large Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2628026313</IDS>
+ <Name>gd_im_train_turret03_mark02</Name>
+ <RealName>Mk II Turret (Large Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2438834122</IDS>
+ <Name>co_train_turret03_mark02</Name>
+ <RealName>Mk II Turret (Large Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3098085967</IDS>
+ <Name>gd_gm_train_turret03_mark03</Name>
+ <RealName>Mk III Turret (Large Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3164892105</IDS>
+ <Name>gd_im_train_turret03_mark03</Name>
+ <RealName>Mk III Turret (Large Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2975708106</IDS>
+ <Name>co_train_turret03_mark03</Name>
+ <RealName>Mk III Turret (Large Train)</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2686817801</IDS>
+ <Name>co_lifter_turret01</Name>
+ <RealName>Heavy Lifter Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2504894597</IDS>
+ <Name>co_repair_turret01</Name>
+ <RealName>Repair Ship Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2428632966</IDS>
+ <Name>co_liner_turret01</Name>
+ <RealName>Cruise Liner Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2655614920</IDS>
+ <Name>li_prison_turret01</Name>
+ <RealName>Liberty Prison Ship Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2761429761</IDS>
+ <Name>br_prison_turret01</Name>
+ <RealName>Bretonia Prison Ship Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2268748483</IDS>
+ <Name>ku_prison_turret01</Name>
+ <RealName>Kusari Prison Ship Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2609749455</IDS>
+ <Name>rh_prison_turret01</Name>
+ <RealName>Rhineland Prison Ship Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2290616329</IDS>
+ <Name>gd_im_miner_turret01</Name>
+ <RealName>Small Miner Turret Type 1</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2223101830</IDS>
+ <Name>co_miner_turret01</Name>
+ <RealName>Small Miner Turret Type 2</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2827514889</IDS>
+ <Name>gd_im_miner_turret02</Name>
+ <RealName>Medium Miner Turret Type 1</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2759961478</IDS>
+ <Name>co_miner_turret02</Name>
+ <RealName>Medium Miner Turret Type 2</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2290638857</IDS>
+ <Name>gd_im_miner_turret03</Name>
+ <RealName>Large Miner Turret Type 1</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2223095686</IDS>
+ <Name>co_miner_turret03</Name>
+ <RealName>Large Miner Turret Type 2</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3053437579</IDS>
+ <Name>br_gunboat_turret01</Name>
+ <RealName>Bretonia Gunboat Primary Turret   </RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2691611783</IDS>
+ <Name>rh_gunboat_turret01</Name>
+ <RealName>Rhineland Gunboat Primary Turret   </RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2544359617</IDS>
+ <Name>ku_gunboat_turret01</Name>
+ <RealName>Kusari Gunboat Primary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2920453062</IDS>
+ <Name>br_gunboat_forward_gun01</Name>
+ <RealName>Bretonia Gunboat Large Forward Gun</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2262524751</IDS>
+ <Name>ku_gunboat_forward_gun01</Name>
+ <RealName>Kusari Gunboat Large Forward Gun</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3107709188</IDS>
+ <Name>rh_gunboat_forward_gun01</Name>
+ <RealName>Rhineland Gunboat Large Forward Gun</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2516565643</IDS>
+ <Name>br_gunboat_turret02</Name>
+ <RealName>Bretonia Gunboat Secondary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2154741895</IDS>
+ <Name>rh_gunboat_turret02</Name>
+ <RealName>Rhineland Gunboat Secondary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2728013259</IDS>
+ <Name>br_gunboat_missile_turret01</Name>
+ <RealName>Bretonia Gunboat Missile Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2742868234</IDS>
+ <Name>ku_gunboat_missile_turret01</Name>
+ <RealName>Kusari Gunboat Missile Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2752913676</IDS>
+ <Name>rh_gunboat_missile_turret01</Name>
+ <RealName>Rhineland Gunboat Missile Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2909563015</IDS>
+ <Name>li_cruiser_forward_gun01</Name>
+ <RealName>Liberty Cruiser Forward Gun</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2406439823</IDS>
+ <Name>li_cruiser_turret01</Name>
+ <RealName>Liberty Cruiser Turret </RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2877796430</IDS>
+ <Name>rh_cruiser_turret01</Name>
+ <RealName>Rhineland Cruiser Primary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2239163340</IDS>
+ <Name>rh_cruiser_turret01_rtc</Name>
+ <RealName>Rhineland Cruiser Primary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2340932686</IDS>
+ <Name>rh_cruiser_turret02</Name>
+ <RealName>Rhineland Cruiser Secondary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2641815564</IDS>
+ <Name>rh_cruiser_turret02_rtc</Name>
+ <RealName>Rhineland Cruiser Secondary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2877806670</IDS>
+ <Name>rh_cruiser_turret03</Name>
+ <RealName>Rhineland Cruiser Tertiary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2507598156</IDS>
+ <Name>rh_cruiser_turret03_rtc</Name>
+ <RealName>Rhineland Cruiser Tertiary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2340893774</IDS>
+ <Name>rh_cruiser_turret04</Name>
+ <RealName>Rhineland Cruiser Defense Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2910252940</IDS>
+ <Name>rh_cruiser_turret04_rtc</Name>
+ <RealName>Rhineland Cruiser Defense Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2823534476</IDS>
+ <Name>li_cruiser_missile_turret01</Name>
+ <RealName>Liberty Cruiser Missile Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2820876493</IDS>
+ <Name>rh_cruiser_missile_turret01</Name>
+ <RealName>Rhineland Cruiser Missile Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2756619205</IDS>
+ <Name>br_destroyer_turret01</Name>
+ <RealName>Bretonia Destroyer Primary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2938921288</IDS>
+ <Name>ku_destroyer_turret01</Name>
+ <RealName>Kusari Destroyer Primary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2219759557</IDS>
+ <Name>br_destroyer_turret02</Name>
+ <RealName>Bretonia Destroyer Secondary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2402032968</IDS>
+ <Name>ku_destroyer_turret02</Name>
+ <RealName>Kusari Destroyer Secondary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2756625349</IDS>
+ <Name>br_destroyer_turret03</Name>
+ <RealName>Bretonia Destroyer Tertiary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2938898760</IDS>
+ <Name>ku_destroyer_turret03</Name>
+ <RealName>Kusari Destroyer Tertiary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2219716549</IDS>
+ <Name>br_destroyer_turret04</Name>
+ <RealName>Bretonia Destroyer Defense Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2661853313</IDS>
+ <Name>br_destroyer_missile_turret01</Name>
+ <RealName>Bretonia Destroyer Missile Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2324083904</IDS>
+ <Name>ku_destroyer_missile_turret01</Name>
+ <RealName>Kusari Destroyer Missile Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2649437514</IDS>
+ <Name>li_battleship_turret01</Name>
+ <RealName>Liberty Battleship Primary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3088774793</IDS>
+ <Name>br_battleship_turret01</Name>
+ <RealName>Bretonia Battleship Primary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3134578443</IDS>
+ <Name>ku_battleship_turret01</Name>
+ <RealName>Kusari Battleship Primary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2760937421</IDS>
+ <Name>rh_battleship_turret01</Name>
+ <RealName>Rhineland Battleship Primary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3061674952</IDS>
+ <Name>rh_battleship_turret01_a</Name>
+ <RealName>Rhineland Battleship Primary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3186313546</IDS>
+ <Name>li_battleship_turret02</Name>
+ <RealName>Liberty Battleship Secondary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2551876233</IDS>
+ <Name>br_battleship_turret02</Name>
+ <RealName>Bretonia Battleship Secondary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2597692171</IDS>
+ <Name>ku_battleship_turret02</Name>
+ <RealName>Kusari Battleship Secondary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2224092109</IDS>
+ <Name>rh_battleship_turret02</Name>
+ <RealName>Rhineland Battleship Secondary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3128782280</IDS>
+ <Name>rh_battleship_turret02_a</Name>
+ <RealName>Rhineland Battleship Secondary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2649447754</IDS>
+ <Name>li_battleship_turret03</Name>
+ <RealName>Liberty Battleship Tertiary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3088752265</IDS>
+ <Name>br_battleship_turret03</Name>
+ <RealName>Bretonia Battleship Tertiary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3134568203</IDS>
+ <Name>ku_battleship_turret03</Name>
+ <RealName>Kusari Battleship Tertiary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2760959949</IDS>
+ <Name>rh_battleship_turret03</Name>
+ <RealName>Rhineland Battleship Tertiary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3195889608</IDS>
+ <Name>rh_battleship_turret03_a</Name>
+ <RealName>Rhineland Battleship Tertiary Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3186340170</IDS>
+ <Name>li_battleship_turret04</Name>
+ <RealName>Liberty Battleship Defense Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2551870089</IDS>
+ <Name>br_battleship_turret04</Name>
+ <RealName>Bretonia Battleship Defense Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2597673739</IDS>
+ <Name>ku_battleship_turret04</Name>
+ <RealName>Kusari Battleship Defense Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2224032717</IDS>
+ <Name>rh_battleship_turret04</Name>
+ <RealName>Rhineland Battleship Defense Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2726121928</IDS>
+ <Name>rh_battleship_turret04_a</Name>
+ <RealName>Rhineland Battleship Defense Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2788082506</IDS>
+ <Name>li_battleship_flak_turret01</Name>
+ <RealName>Liberty Battleship Flak Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2697613516</IDS>
+ <Name>br_battleship_flak_turret01</Name>
+ <RealName>Bretonia Battleship Flak Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2704057357</IDS>
+ <Name>ku_battleship_flak_turret01</Name>
+ <RealName>Kusari Battleship Flak Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2789628939</IDS>
+ <Name>rh_battleship_flak_turret01</Name>
+ <RealName>Rhineland Battleship Flak Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2231152454</IDS>
+ <Name>rh_battleship_flak_turret01_a</Name>
+ <RealName>Rhineland Battleship Flak Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2243684292</IDS>
+ <Name>li_battleship_missile_turret01</Name>
+ <RealName>Liberty Battleship Missile Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3185203841</IDS>
+ <Name>br_battleship_missile_turret01</Name>
+ <RealName>Bretonia Battleship Missile Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2479627077</IDS>
+ <Name>ku_battleship_missile_turret01</Name>
+ <RealName>Kusari Battleship Missile Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>3021750594</IDS>
+ <Name>rh_battleship_missile_turret01</Name>
+ <RealName>Rhineland Battleship Missile Turret</RealName>
+</Turret>
+ 
+<Turret>
+ <IDS>2426178251</IDS>
+ <Name>rh_battleship_missile_turret01_a</Name>
+ <RealName>Rhineland Battleship Missile Turret</RealName>
+</Turret>
+ 
+</Turrets>

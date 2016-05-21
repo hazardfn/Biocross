@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Systems>
+ 
+<System>
+ <IDS>Li01</IDS>
+ <RealName>New York</RealName>
+</System>
+ 
+<System>
+ <IDS>Li02</IDS>
+ <RealName>California</RealName>
+</System>
+ 
+<System>
+ <IDS>Li03</IDS>
+ <RealName>Colorado</RealName>
+</System>
+ 
+<System>
+ <IDS>Li04</IDS>
+ <RealName>Texas</RealName>
+</System>
+ 
+<System>
+ <IDS>Li05</IDS>
+ <RealName>Alaska (SP)</RealName>
+</System>
+ 
+<System>
+ <IDS>Br01</IDS>
+ <RealName>New London</RealName>
+</System>
+ 
+<System>
+ <IDS>Br02</IDS>
+ <RealName>Manchester</RealName>
+</System>
+ 
+<System>
+ <IDS>Br03</IDS>
+ <RealName>Cambridge</RealName>
+</System>
+ 
+<System>
+ <IDS>Br04</IDS>
+ <RealName>Leeds</RealName>
+</System>
+ 
+<System>
+ <IDS>Br05</IDS>
+ <RealName>Dublin</RealName>
+</System>
+ 
+<System>
+ <IDS>Br06</IDS>
+ <RealName>Edinburgh</RealName>
+</System>
+ 
+<System>
+ <IDS>Ku01</IDS>
+ <RealName>New Tokyo</RealName>
+</System>
+ 
+<System>
+ <IDS>Ku02</IDS>
+ <RealName>Shikoku</RealName>
+</System>
+ 
+<System>
+ <IDS>Ku03</IDS>
+ <RealName>Kyushu</RealName>
+</System>
+ 
+<System>
+ <IDS>Ku04</IDS>
+ <RealName>Honshu</RealName>
+</System>
+ 
+<System>
+ <IDS>Ku05</IDS>
+ <RealName>Hokkaido</RealName>
+</System>
+ 
+<System>
+ <IDS>Ku06</IDS>
+ <RealName>Chugoku</RealName>
+</System>
+ 
+<System>
+ <IDS>Ku07</IDS>
+ <RealName>Tohoku (SP)</RealName>
+</System>
+ 
+<System>
+ <IDS>Rh01</IDS>
+ <RealName>New Berlin</RealName>
+</System>
+ 
+<System>
+ <IDS>Rh02</IDS>
+ <RealName>Hamburg</RealName>
+</System>
+ 
+<System>
+ <IDS>Rh03</IDS>
+ <RealName>Stuttgart</RealName>
+</System>
+ 
+<System>
+ <IDS>Rh04</IDS>
+ <RealName>Frankfurt</RealName>
+</System>
+ 
+<System>
+ <IDS>Rh05</IDS>
+ <RealName>Dresden</RealName>
+</System>
+ 
+<System>
+ <IDS>Iw01</IDS>
+ <RealName>Bering</RealName>
+</System>
+ 
+<System>
+ <IDS>Iw02</IDS>
+ <RealName>Hudson</RealName>
+</System>
+ 
+<System>
+ <IDS>Iw03</IDS>
+ <RealName>Magellan</RealName>
+</System>
+ 
+<System>
+ <IDS>Iw04</IDS>
+ <RealName>Cortez</RealName>
+</System>
+ 
+<System>
+ <IDS>Iw05</IDS>
+ <RealName>Kepler</RealName>
+</System>
+ 
+<System>
+ <IDS>Iw06</IDS>
+ <RealName>Galileo</RealName>
+</System>
+ 
+<System>
+ <IDS>Bw01</IDS>
+ <RealName>Omega-3</RealName>
+</System>
+ 
+<System>
+ <IDS>Bw02</IDS>
+ <RealName>Omega-5</RealName>
+</System>
+ 
+<System>
+ <IDS>Bw03</IDS>
+ <RealName>Omega-7</RealName>
+</System>
+ 
+<System>
+ <IDS>Bw04</IDS>
+ <RealName>Omega-11</RealName>
+</System>
+ 
+<System>
+ <IDS>Bw05</IDS>
+ <RealName>Sigma-13</RealName>
+</System>
+ 
+<System>
+ <IDS>Bw06</IDS>
+ <RealName>Sigma-17</RealName>
+</System>
+ 
+<System>
+ <IDS>Bw07</IDS>
+ <RealName>Sigma-19</RealName>
+</System>
+ 
+<System>
+ <IDS>Bw08</IDS>
+ <RealName>Tau-23</RealName>
+</System>
+ 
+<System>
+ <IDS>Bw09</IDS>
+ <RealName>Tau-29</RealName>
+</System>
+ 
+<System>
+ <IDS>Bw10</IDS>
+ <RealName>Tau-31</RealName>
+</System>
+ 
+<System>
+ <IDS>Ew01</IDS>
+ <RealName>Tau-37</RealName>
+</System>
+ 
+<System>
+ <IDS>Ew02</IDS>
+ <RealName>Omicron Beta</RealName>
+</System>
+ 
+<System>
+ <IDS>Ew03</IDS>
+ <RealName>Omega-41</RealName>
+</System>
+ 
+<System>
+ <IDS>Ew04</IDS>
+ <RealName>Omicron Theta</RealName>
+</System>
+ 
+<System>
+ <IDS>Ew05</IDS>
+ <RealName>Top Unknown System</RealName>
+</System>
+ 
+<System>
+ <IDS>Ew06</IDS>
+ <RealName>Bottom Unknown system</RealName>
+</System>
+ 
+<System>
+ <IDS>Hi01</IDS>
+ <RealName>Omicron Alpha</RealName>
+</System>
+ 
+<System>
+ <IDS>Hi02</IDS>
+ <RealName>Omicron Gamma</RealName>
+</System>
+ 
+<System>
+ <IDS>St01</IDS>
+ <RealName>Omicron Minor</RealName>
+</System>
+ 
+<System>
+ <IDS>St02</IDS>
+ <RealName>Omicron Beta (SP)</RealName>
+</System>
+ 
+<System>
+ <IDS>St03</IDS>
+ <RealName>Omicron Major</RealName>
+</System>
+ 
+</Systems>

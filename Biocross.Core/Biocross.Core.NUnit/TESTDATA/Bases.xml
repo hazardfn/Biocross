@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Bases>
+ 
+<Base>
+ <IDS>Li01_01_Base</IDS>
+ <RealName>Planet Manhattan</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li01_02_Base</IDS>
+ <RealName>Planet Pittsburgh</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li01_03_Base</IDS>
+ <RealName>Battleship Missouri</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li01_04_Base</IDS>
+ <RealName>Benford Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li01_05_Base</IDS>
+ <RealName>Ithaca Research Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li01_06_Base</IDS>
+ <RealName>Trenton Outpost</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li01_07_Base</IDS>
+ <RealName>Norfolk Shipyard</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li01_08_Base</IDS>
+ <RealName>Newark Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li01_09_Base</IDS>
+ <RealName>West Point Military Academy</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li01_10_Base</IDS>
+ <RealName>Detroit Munitions</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li01_11_Base</IDS>
+ <RealName>Fort Bush</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li01_12_Base</IDS>
+ <RealName>Buffalo Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li01_13_Base</IDS>
+ <RealName>Rochester Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li01_14_Base</IDS>
+ <RealName>Baltimore Shipyard</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li01_15_Base</IDS>
+ <RealName>Battleship Osiris (SP)</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li02_01_Base</IDS>
+ <RealName>Planet Los Angeles</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li02_02_Base</IDS>
+ <RealName>California Minor</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li02_03_Base</IDS>
+ <RealName>Battleship Yukon</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li02_04_Base</IDS>
+ <RealName>Willard Research Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li02_05_Base</IDS>
+ <RealName>San Diego Border Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li02_06_Base</IDS>
+ <RealName>Alcatraz Depot</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li03_01_Base</IDS>
+ <RealName>Planet Denver</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li03_02_Base</IDS>
+ <RealName>Battleship Rio Grande</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li03_03_Base</IDS>
+ <RealName>Ouray Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li03_04_Base</IDS>
+ <RealName>Pueblo Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li04_01_Base</IDS>
+ <RealName>Planet Houston</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li04_02_Base</IDS>
+ <RealName>LPI Huntsville</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li04_03_Base</IDS>
+ <RealName>Battleship Mississippi</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li04_04_Base</IDS>
+ <RealName>Beaumont Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li04_05_Base</IDS>
+ <RealName>LPI Sugarland</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li04_06_Base</IDS>
+ <RealName>Battleship Osiris (SP)</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Li05_01_Base</IDS>
+ <RealName>Prison Station Mitchell</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br01_01_Base</IDS>
+ <RealName>Planet New London</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br01_02_Base</IDS>
+ <RealName>Southampton Shipyard</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br01_03_Base</IDS>
+ <RealName>Battleship Suffolk</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br01_04_Base</IDS>
+ <RealName>Waterloo Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br01_05_Base</IDS>
+ <RealName>Canterbury Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br01_06_Base</IDS>
+ <RealName>Thames Outpost</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br01_07_Base</IDS>
+ <RealName>Kensington Shipping Platform</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br01_08_Base</IDS>
+ <RealName>Trafalgar Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br02_01_Base</IDS>
+ <RealName>BPA Newgate</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br02_02_Base</IDS>
+ <RealName>Birmingham Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br02_03_Base</IDS>
+ <RealName>Sheffield Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br02_04_Base</IDS>
+ <RealName>Liverpool Border Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br02_05_Base</IDS>
+ <RealName>Kingston Border Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br03_01_Base</IDS>
+ <RealName>Planet Cambridge</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br03_02_Base</IDS>
+ <RealName>Cambridge Research Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br03_03_Base</IDS>
+ <RealName>Battleship Norfolk</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br03_04_Base</IDS>
+ <RealName>Cardiff Mining Facility</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br04_01_Base</IDS>
+ <RealName>Planet Leeds</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br04_02_Base</IDS>
+ <RealName>Stokes Mining Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br04_03_Base</IDS>
+ <RealName>Battleship York</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br04_04_Base</IDS>
+ <RealName>Glasgow Outpost</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br04_05_Base</IDS>
+ <RealName>LD-14</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br04_06_Base</IDS>
+ <RealName>Durham Border Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br05_01_Base</IDS>
+ <RealName>Battleship Hood</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br05_02_Base</IDS>
+ <RealName>Mining Station Glorious</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br05_03_Base</IDS>
+ <RealName>Graves Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br05_04_Base</IDS>
+ <RealName>Battleship Essex</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br05_05_Base</IDS>
+ <RealName>Arranmore Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br06_01_Base</IDS>
+ <RealName>Luxury Liner Shetland</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br06_02_Base</IDS>
+ <RealName>Aberdeen Border Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br06_03_Base</IDS>
+ <RealName>Islay Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Br06_04_Base</IDS>
+ <RealName>Perth Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku01_01_Base</IDS>
+ <RealName>Planet New Tokyo</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku01_02_Base</IDS>
+ <RealName>Narita Outpost</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku01_03_Base</IDS>
+ <RealName>Yokohama Shipyard</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku01_04_Base</IDS>
+ <RealName>Roppongi Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku01_05_Base</IDS>
+ <RealName>Shinagawa Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku01_06_Base</IDS>
+ <RealName>Shinjuku Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku01_07_Base</IDS>
+ <RealName>Kabukicho Depot</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku02_01_Base</IDS>
+ <RealName>Fuchu Prison</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku02_02_Base</IDS>
+ <RealName>Battleship Myoko</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku02_03_Base</IDS>
+ <RealName>Deshima Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku02_04_Base</IDS>
+ <RealName>Planet Junyo</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku02_05_Base</IDS>
+ <RealName>Ohashi Border Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku03_01_Base</IDS>
+ <RealName>Planet Kyushu</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku03_02_Base</IDS>
+ <RealName>Tsushima Depot</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku03_03_Base</IDS>
+ <RealName>Battleship Nagumo</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku03_04_Base</IDS>
+ <RealName>Nansei Research Complex</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku03_05_Base</IDS>
+ <RealName>Kagoshima Depot</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku04_01_Base</IDS>
+ <RealName>Planet Honshu</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku04_02_Base</IDS>
+ <RealName>Osaka Storage Facility</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku04_03_Base</IDS>
+ <RealName>Yukawa Shipyard</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku04_04_Base</IDS>
+ <RealName>Kansai Research Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku04_05_Base</IDS>
+ <RealName>Aomori Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku04_06_Base</IDS>
+ <RealName>Akita Border Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku05_01_Base</IDS>
+ <RealName>Battleship Matsumoto</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku05_02_Base</IDS>
+ <RealName>Ainu Depot</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku05_03_Base</IDS>
+ <RealName>Chugoku Gate Construction Site</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku05_04_Base</IDS>
+ <RealName>Sapporo Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku06_01_Base</IDS>
+ <RealName>Kyoto Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku07_01_Base</IDS>
+ <RealName>Ryuku Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ku07_02_Base</IDS>
+ <RealName>Tekagi's Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh01_01_Base</IDS>
+ <RealName>Planet New Berlin</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh01_02_Base</IDS>
+ <RealName>Oder Shipyard</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh01_03_Base</IDS>
+ <RealName>The Ring</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh01_04_Base</IDS>
+ <RealName>Bonn Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh01_05_Base</IDS>
+ <RealName>Dortmund Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh01_06_Base</IDS>
+ <RealName>Essen Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh01_07_Base</IDS>
+ <RealName>Brandenburg Border Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh01_08_Base</IDS>
+ <RealName>Kreuzberg Depot</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh02_01_Base</IDS>
+ <RealName>Planet Hamburg</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh02_02_Base</IDS>
+ <RealName>Battleship Westfalen</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh02_03_Base</IDS>
+ <RealName>Vierlande Prison</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh02_04_Base</IDS>
+ <RealName>Alster Shipyard</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh02_05_Base</IDS>
+ <RealName>Altona Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh02_06_Base</IDS>
+ <RealName>L�beck Border Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh02_07_Base</IDS>
+ <RealName>Battleship Osiris (SP)</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh03_01_Base</IDS>
+ <RealName>Planet Stuttgart</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh03_02_Base</IDS>
+ <RealName>Planet Baden Baden</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh03_03_Base</IDS>
+ <RealName>Freiburg Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh03_04_Base</IDS>
+ <RealName>Ulm Border Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh03_05_Base</IDS>
+ <RealName>Konstanz Border Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh03_06_Base</IDS>
+ <RealName>Darmstadt Depot</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh04_01_Base</IDS>
+ <RealName>Planet Holstein</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh04_02_Base</IDS>
+ <RealName>Mainz Storage Facility</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh04_03_Base</IDS>
+ <RealName>Mannheim Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh04_04_Base</IDS>
+ <RealName>Fulda Border Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh04_05_Base</IDS>
+ <RealName>Bruchsal Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh05_01_Base</IDS>
+ <RealName>Leipzig Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh05_02_Base</IDS>
+ <RealName>Bautzen Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh05_03_Base</IDS>
+ <RealName>Pirna Border Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Rh05_04_Base</IDS>
+ <RealName>Vogtland Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Iw01_01_Base</IDS>
+ <RealName>Pacifica Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Iw01_02_Base</IDS>
+ <RealName>Freeport 2</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Iw02_01_Base</IDS>
+ <RealName>Barrow Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Iw02_02_Base</IDS>
+ <RealName>Dawson Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Iw02_03_Base</IDS>
+ <RealName>Battleship Osiris (SP)</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Iw03_01_Base</IDS>
+ <RealName>Freeport 4</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Iw03_02_Base</IDS>
+ <RealName>Mactan Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Iw04_01_Base</IDS>
+ <RealName>Planet Curacao</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Iw04_02_Base</IDS>
+ <RealName>Montezuma Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Iw05_01_Base</IDS>
+ <RealName>Ames Research Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Iw05_02_Base</IDS>
+ <RealName>Nome Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Iw06_01_Base</IDS>
+ <RealName>Leiden Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Iw06_02_Base</IDS>
+ <RealName>Padua Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw01_01_Base</IDS>
+ <RealName>Planet Sprague</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw01_02_Base</IDS>
+ <RealName>Freeport 1</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw01_03_Base</IDS>
+ <RealName>Rugen Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw01_04_Base</IDS>
+ <RealName>Douglas Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw01_05_Base</IDS>
+ <RealName>Baxter Research Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw02_01_Base</IDS>
+ <RealName>Cadiz Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw02_02_Base</IDS>
+ <RealName>Ronneburg Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw03_01_Base</IDS>
+ <RealName>Freistadt Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw03_02_Base</IDS>
+ <RealName>Briesen Mining Facility</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw03_03_Base</IDS>
+ <RealName>Elbich Mining Facility</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw04_01_Base</IDS>
+ <RealName>Solarius Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw04_02_Base</IDS>
+ <RealName>Freital Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw05_01_Base</IDS>
+ <RealName>Gas Miner Naha</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw05_02_Base</IDS>
+ <RealName>Helgoland Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw05_03_Base</IDS>
+ <RealName>Yanagi Depot</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw06_01_Base</IDS>
+ <RealName>Planet Kurile</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw06_02_Base</IDS>
+ <RealName>Atka Research Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw07_01_Base</IDS>
+ <RealName>Luxury Liner Hawaii</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw07_02_Base</IDS>
+ <RealName>Gas Miner Ogashawa</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw08_01_Base</IDS>
+ <RealName>Cali Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw08_02_Base</IDS>
+ <RealName>Tau-31 Gate Construction Site</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw08_03_Base</IDS>
+ <RealName>Java Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw09_01_Base</IDS>
+ <RealName>Nago Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw09_02_Base</IDS>
+ <RealName>Shinkaku Station</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw09_03_Base</IDS>
+ <RealName>Freeport 6</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw10_01_Base</IDS>
+ <RealName>Planet Harris</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Bw10_02_Base</IDS>
+ <RealName>Holman Outpost</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ew01_01_Base</IDS>
+ <RealName>Freeport 10</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ew01_02_Base</IDS>
+ <RealName>Falkland Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ew02_01_Base</IDS>
+ <RealName>Ruiz Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ew03_01_Base</IDS>
+ <RealName>Leon Base</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ew03_02_Base</IDS>
+ <RealName>Freeport 5</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ew04_01_Base</IDS>
+ <RealName>Freeport 9</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Hi01_01_Base</IDS>
+ <RealName>Planet Malta</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Hi02_01_Base</IDS>
+ <RealName>Planet Crete</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Hi02_02_Base</IDS>
+ <RealName>Tripoli Shipyard</RealName>
+</Base>
+ 
+<Base>
+ <IDS>St01_01_Base</IDS>
+ <RealName>Planet Toledo</RealName>
+</Base>
+ 
+<Base>
+ <IDS>St01_02_Base</IDS>
+ <RealName>Battleship Osiris (SP)</RealName>
+</Base>
+ 
+<Base>
+ <IDS>St02_01_Base</IDS>
+ <RealName>Battleship Osiris (SP)</RealName>
+</Base>
+ 
+<Base>
+ <IDS>St03b_01_Base</IDS>
+ <RealName>Battleship Osiris (SP)</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Intro1_Base</IDS>
+ <RealName>Planet Manhattan (Intro1)</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Intro2_Base</IDS>
+ <RealName>Planet Manhattan (Intro2)</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Intro3_Base</IDS>
+ <RealName>Planet Manhattan (Intro3)</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ew06_01_Base</IDS>
+ <RealName>Planet Primus</RealName>
+</Base>
+ 
+<Base>
+ <IDS>Ew06_02_Base</IDS>
+ <RealName>Planet Gammu</RealName>
+</Base>
+ 
+</Bases>

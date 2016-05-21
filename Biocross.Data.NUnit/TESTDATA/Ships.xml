@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Ships>
+ 
+<Ship>
+ <IDS>2151746432</IDS>
+ <Name>ge_fighter</Name>
+ <RealName>Starflier (Civilian Ultra-Light Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2702048323</IDS>
+ <Name>ge_fighter2</Name>
+ <RealName>Startracker (Civilian Light Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2701984835</IDS>
+ <Name>ge_fighter4</Name>
+ <RealName>Hawk (Civilian Light Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2165116995</IDS>
+ <Name>ge_fighter5</Name>
+ <RealName>Falcon (Civilian Heavy Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2702011459</IDS>
+ <Name>ge_fighter6</Name>
+ <RealName>Eagle (Civilian Very Heavy Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2745310027</IDS>
+ <Name>ge_train</Name>
+ <RealName>Train (Civilian Transport)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2511993871</IDS>
+ <Name>ge_large_train</Name>
+ <RealName>Large Train (Civilian Transport)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>3021923272</IDS>
+ <Name>ge_transport</Name>
+ <RealName>Transport (Civilian Transport)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2563328266</IDS>
+ <Name>ge_large_transport</Name>
+ <RealName>Large Transport (Civilian Transport)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2316709831</IDS>
+ <Name>ge_prison</Name>
+ <RealName>Prison Liner (Civilian Transport)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2410575040</IDS>
+ <Name>ge_lifter</Name>
+ <RealName>Heavy Lifter (Civilian Transport)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2657702723</IDS>
+ <Name>ge_liner</Name>
+ <RealName>Luxury Liner (Civilian Transport)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2523484675</IDS>
+ <Name>ge_miner</Name>
+ <RealName>Mining Ship (Civilian Transport)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>3129997704</IDS>
+ <Name>ge_repair</Name>
+ <RealName>Repair Ship (Civilian Transport)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2820316814</IDS>
+ <Name>ge_csv</Name>
+ <RealName>CSV (Civilian Transport)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2456439424</IDS>
+ <Name>ge_armored</Name>
+ <RealName>Armored Transport (Civilian Transport)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2650442112</IDS>
+ <Name>li_fighter</Name>
+ <RealName>Patriot (Liberty Light Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>3074863431</IDS>
+ <Name>li_elite</Name>
+ <RealName>Defender (Liberty Heavy Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2704647112</IDS>
+ <Name>li_freighter</Name>
+ <RealName>Rhino (Liberty Freighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2170806662</IDS>
+ <Name>li_cruiser</Name>
+ <RealName>Liberty Cruiser (Liberty Cruiser)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>3218218375</IDS>
+ <Name>li_dreadnought</Name>
+ <RealName>Liberty Dreadnought (Liberty Battleship)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2257092298</IDS>
+ <Name>br_fighter</Name>
+ <RealName>Cavalier (Bretonia Light Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2257007305</IDS>
+ <Name>br_elite</Name>
+ <RealName>Crusader (Bretonia Heavy Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>3151149197</IDS>
+ <Name>br_freighter</Name>
+ <RealName>Clydesdale (Bretonia Freighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2810421512</IDS>
+ <Name>br_gunboat</Name>
+ <RealName>Bretonia Gunboat (Bretonia Gunboat)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2358174656</IDS>
+ <Name>br_destroyer</Name>
+ <RealName>Bretonia Destroyer (Bretonia Cruiser)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2984310671</IDS>
+ <Name>br_battleship</Name>
+ <RealName>Bretonia Battleship (Bretonia Battleship)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2991449024</IDS>
+ <Name>ku_fighter</Name>
+ <RealName>Drake (Kusari Light Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>3158711104</IDS>
+ <Name>ku_elite</Name>
+ <RealName>Dragon (Kusari Heavy Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>3166047942</IDS>
+ <Name>ku_freighter</Name>
+ <RealName>Drone (Kusari Freighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2470853634</IDS>
+ <Name>ku_gunboat</Name>
+ <RealName>Kusari Gunboat (Kusari Gunboat)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2347390347</IDS>
+ <Name>ku_destroyer</Name>
+ <RealName>Kusari Destroyer (Kusari Cruiser)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>3042252942</IDS>
+ <Name>ku_battleship</Name>
+ <RealName>Kusari Battleship (Kusari Battleship)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2247165066</IDS>
+ <Name>rh_fighter</Name>
+ <RealName>Banshee (Rhineland Light Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2992982989</IDS>
+ <Name>rh_elite</Name>
+ <RealName>Valkyrie (Rhineland Heavy Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2688203850</IDS>
+ <Name>rh_freighter</Name>
+ <RealName>Humpback (Rhineland Freighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2767903560</IDS>
+ <Name>rh_gunboat</Name>
+ <RealName>Rheinland Gunboat (Rhineland Gunboat)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2573757580</IDS>
+ <Name>rh_cruiser</Name>
+ <RealName>Rheinland Cruiser (Rhineland Cruiser)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>3119119432</IDS>
+ <Name>rh_battleship</Name>
+ <RealName>Rheinland Battleship (Rhineland Battleship)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2246075530</IDS>
+ <Name>bh_fighter</Name>
+ <RealName>Piranha (Bounty Hunters Light Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2986822601</IDS>
+ <Name>bh_elite</Name>
+ <RealName>Barracuda (Bounty Hunters Heavy Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2270462412</IDS>
+ <Name>bh_elite2</Name>
+ <RealName>Hammerhead (Bounty Hunters Very Heavy Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2917601664</IDS>
+ <Name>pi_fighter</Name>
+ <RealName>Bloodhound (Pirate Light Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>3072655695</IDS>
+ <Name>pi_elite</Name>
+ <RealName>Wolfhound (Pirate Heavy Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2705036494</IDS>
+ <Name>pi_freighter</Name>
+ <RealName>Mule (Pirate Freighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2248965056</IDS>
+ <Name>bw_fighter</Name>
+ <RealName>Dagger (Border Worlds Light Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2529638985</IDS>
+ <Name>bw_elite</Name>
+ <RealName>Stiletto (Border Worlds Heavy Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2805431751</IDS>
+ <Name>bw_elite2</Name>
+ <RealName>Sabre (Border Worlds Very Heavy Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>3199383692</IDS>
+ <Name>bw_freighter</Name>
+ <RealName>Dromedary (Border Worlds Freighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2435672448</IDS>
+ <Name>co_fighter</Name>
+ <RealName>Legionnaire (Corsairs Light Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2294760008</IDS>
+ <Name>co_elite</Name>
+ <RealName>Centurion (Corsairs Heavy Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2806013121</IDS>
+ <Name>co_elite2</Name>
+ <RealName>Titan (Corsairs Very Heavy Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2793834180</IDS>
+ <Name>or_elite</Name>
+ <RealName>Anubis (Order Very Heavy Fighter)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>3038813056</IDS>
+ <Name>no_fighter</Name>
+ <RealName>Nomad Fighter</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2485863490</IDS>
+ <Name>no_gunboat</Name>
+ <RealName>Nomad Gunboat</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>3084736265</IDS>
+ <Name>no_battleship</Name>
+ <RealName>Nomad Battleship</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2913217602</IDS>
+ <Name>or_elite_msn01</Name>
+ <RealName>Order Ship (SPECIAL Elite)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2385054144</IDS>
+ <Name>li_fighter_indestr</Name>
+ <RealName>Patriot (SPECIAL Indestructable?)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2480712260</IDS>
+ <Name>li_fighter_King</Name>
+ <RealName>Patriot (SPECIAL King's)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2298621889</IDS>
+ <Name>RTC_Lifeboat</Name>
+ <RealName>RTC_Lifeboat (SPECIAL Unknown)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>ge_fighter</IDS>
+ <Name>ge_fighter</Name>
+ <RealName>Starflier (SPECIAL New Player, Civilian)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2645496772</IDS>
+ <Name>ge_armored_nobay</Name>
+ <RealName>Armored Transport (SPECIAL No Bay, Civilian)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2796325837</IDS>
+ <Name>li_elite2</Name>
+ <RealName>Defender (SPECIAL Juni's)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2389009608</IDS>
+ <Name>mission02_burning_transport</Name>
+ <RealName>Transport (SPECIAL Burning)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2823125642</IDS>
+ <Name>mission02_burning_l_elite</Name>
+ <RealName>Defender (SPECIAL Burning Elite)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2380525262</IDS>
+ <Name>msn_playership</Name>
+ <RealName>Starflier (SPECIAL Mission)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2773058880</IDS>
+ <Name>debris_tosser_200</Name>
+ <RealName>Patriot (SPECIAL Debris Tosser 200)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2605017987</IDS>
+ <Name>ku_dragon</Name>
+ <RealName>Dragon (SPECIAL Class 9)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2693654604</IDS>
+ <Name>large_transport_m03</Name>
+ <RealName>Large Transport (SPECIAL M03)</RealName>
+</Ship>
+ 
+<Ship>
+ <IDS>2271974600</IDS>
+ <Name>or_osiris</Name>
+ <RealName>Osiris (SPECIAL Order Dreadnought)</RealName>
+</Ship>
+ 
+</Ships>

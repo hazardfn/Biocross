@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Lights>
+ 
+<Light>
+ <IDS>2802157953</IDS>
+ <Name>SmallWhite</Name>
+ <RealName>SmallWhite</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2244540233</IDS>
+ <Name>SmallRed</Name>
+ <RealName>SmallRed</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2636123526</IDS>
+ <Name>SmallOrange</Name>
+ <RealName>SmallOrange</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2896257926</IDS>
+ <Name>SmallYellow</Name>
+ <RealName>SmallYellow</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3044046851</IDS>
+ <Name>SmallGreen</Name>
+ <RealName>SmallGreen</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2929539724</IDS>
+ <Name>SmallBlue</Name>
+ <RealName>SmallBlue</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2399322506</IDS>
+ <Name>MediumWhite</Name>
+ <RealName>MediumWhite</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2936850944</IDS>
+ <Name>MediumRed</Name>
+ <RealName>MediumRed</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2591819470</IDS>
+ <Name>MediumOrange</Name>
+ <RealName>MediumOrange</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2885511374</IDS>
+ <Name>MediumYellow</Name>
+ <RealName>MediumYellow</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2641833992</IDS>
+ <Name>MediumGreen</Name>
+ <RealName>MediumGreen</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2327130052</IDS>
+ <Name>MediumBlue</Name>
+ <RealName>MediumBlue</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2940607492</IDS>
+ <Name>LargeWhite</Name>
+ <RealName>LargeWhite</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2184748238</IDS>
+ <Name>LargeRed</Name>
+ <RealName>LargeRed</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3199310980</IDS>
+ <Name>LargeOrange</Name>
+ <RealName>LargeOrange</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2402349700</IDS>
+ <Name>LargeYellow</Name>
+ <RealName>LargeYellow</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3174296966</IDS>
+ <Name>LargeGreen</Name>
+ <RealName>LargeGreen</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3203756301</IDS>
+ <Name>LargeBlue</Name>
+ <RealName>LargeBlue</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3005133262</IDS>
+ <Name>White</Name>
+ <RealName>White</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2224645070</IDS>
+ <Name>Red</Name>
+ <RealName>Red</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2249343682</IDS>
+ <Name>Orange</Name>
+ <RealName>Orange</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3079875778</IDS>
+ <Name>Yellow</Name>
+ <RealName>Yellow</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2708160588</IDS>
+ <Name>Green</Name>
+ <RealName>Green</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2668181836</IDS>
+ <Name>Blue</Name>
+ <RealName>Blue</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2151659853</IDS>
+ <Name>SlowSmallWhite</Name>
+ <RealName>SlowSmallWhite</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2887074945</IDS>
+ <Name>SlowSmallRed</Name>
+ <RealName>SlowSmallRed</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2802020621</IDS>
+ <Name>SlowSmallOrange</Name>
+ <RealName>SlowSmallOrange</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2525110029</IDS>
+ <Name>SlowSmallYellow</Name>
+ <RealName>SlowSmallYellow</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2454341839</IDS>
+ <Name>SlowSmallGreen</Name>
+ <RealName>SlowSmallGreen</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2470059588</IDS>
+ <Name>SlowSmallBlue</Name>
+ <RealName>SlowSmallBlue</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2801007561</IDS>
+ <Name>SlowSmallPurple</Name>
+ <RealName>SlowSmallPurple</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3038887169</IDS>
+ <Name>SlowMediumWhite</Name>
+ <RealName>SlowMediumWhite</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2460741320</IDS>
+ <Name>SlowMediumRed</Name>
+ <RealName>SlowMediumRed</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2291974979</IDS>
+ <Name>SlowMediumYellow</Name>
+ <RealName>SlowMediumYellow</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2807319683</IDS>
+ <Name>SlowMediumGreen</Name>
+ <RealName>SlowMediumGreen</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2911837960</IDS>
+ <Name>SlowMediumBlue</Name>
+ <RealName>SlowMediumBlue</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2289839304</IDS>
+ <Name>SlowLargeWhite</Name>
+ <RealName>SlowLargeWhite</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2883923718</IDS>
+ <Name>SlowLargeRed</Name>
+ <RealName>SlowLargeRed</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3037957647</IDS>
+ <Name>SlowLargeYellow</Name>
+ <RealName>SlowLargeYellow</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2584337738</IDS>
+ <Name>SlowLargeGreen</Name>
+ <RealName>SlowLargeGreen</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2203211205</IDS>
+ <Name>SlowLargeBlue</Name>
+ <RealName>SlowLargeBlue</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2965340614</IDS>
+ <Name>SlowXLargeRed</Name>
+ <RealName>SlowXLargeRed</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3111178759</IDS>
+ <Name>SlowXLargeGreen</Name>
+ <RealName>SlowXLargeGreen</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3119591810</IDS>
+ <Name>SlowXLargeBlue</Name>
+ <RealName>SlowXLargeBlue</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2445172356</IDS>
+ <Name>FastSmallRed</Name>
+ <RealName>FastSmallRed</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2667375436</IDS>
+ <Name>FastSmallYellow</Name>
+ <RealName>FastSmallYellow</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2527212615</IDS>
+ <Name>FastSmallGreen</Name>
+ <RealName>FastSmallGreen</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3091129224</IDS>
+ <Name>FastSmallBlue</Name>
+ <RealName>FastSmallBlue</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2938812610</IDS>
+ <Name>FastMediumGreen</Name>
+ <RealName>FastMediumGreen</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2842125184</IDS>
+ <Name>FastMediumBlue</Name>
+ <RealName>FastMediumBlue</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2521707779</IDS>
+ <Name>FastLargeRed</Name>
+ <RealName>FastLargeRed</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2824251401</IDS>
+ <Name>FastLargeBlue</Name>
+ <RealName>FastLargeBlue</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2987636809</IDS>
+ <Name>LargeWhiteStrobe</Name>
+ <RealName>LargeWhiteStrobe</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2907094981</IDS>
+ <Name>FastTrackRed</Name>
+ <RealName>FastTrackRed</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2175996429</IDS>
+ <Name>LargeRedTrade</Name>
+ <RealName>LargeRedTrade</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2215615366</IDS>
+ <Name>LargeOrangeStrobe</Name>
+ <RealName>LargeOrangeStrobe</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2274320066</IDS>
+ <Name>BuoyGreen</Name>
+ <RealName>BuoyGreen</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2856437956</IDS>
+ <Name>TrackGreen</Name>
+ <RealName>TrackGreen</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3209448011</IDS>
+ <Name>MedTrackGreen</Name>
+ <RealName>MedTrackGreen</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2420037064</IDS>
+ <Name>TradeLaneGreen</Name>
+ <RealName>TradeLaneGreen</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3049230788</IDS>
+ <Name>MediumBlueSource</Name>
+ <RealName>MediumBlueSource</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2733010766</IDS>
+ <Name>LargeBlueSource</Name>
+ <RealName>LargeBlueSource</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2820180044</IDS>
+ <Name>LightBlueSpecial</Name>
+ <RealName>LightBlueSpecial</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2265531853</IDS>
+ <Name>LargeWhiteSpecial</Name>
+ <RealName>LargeWhiteSpecial</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3020982727</IDS>
+ <Name>WhiteStationSpecial</Name>
+ <RealName>WhiteStationSpecial</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2553531598</IDS>
+ <Name>LibertyCockpitGlow</Name>
+ <RealName>LibertyCockpitGlow</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2346914757</IDS>
+ <Name>DockingLightRed</Name>
+ <RealName>DockingLightRed</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2494027655</IDS>
+ <Name>DockingLightRedSmall</Name>
+ <RealName>DockingLightRedSmall</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2744642050</IDS>
+ <Name>WhiteCone</Name>
+ <RealName>WhiteCone</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2880351297</IDS>
+ <Name>engine_glow_white</Name>
+ <RealName>engine_glow_white</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2273496005</IDS>
+ <Name>engine_glow_yellow</Name>
+ <RealName>engine_glow_yellow</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2840137098</IDS>
+ <Name>engine_glow_red</Name>
+ <RealName>engine_glow_red</RealName>
+</Light>
+ 
+<Light>
+ <IDS>2943455557</IDS>
+ <Name>engine_glow_blue</Name>
+ <RealName>engine_glow_blue</RealName>
+</Light>
+ 
+<Light>
+ <IDS>3118161347</IDS>
+ <Name>engine_glow_green</Name>
+ <RealName>engine_glow_green</RealName>
+</Light>
+ 
+</Lights>

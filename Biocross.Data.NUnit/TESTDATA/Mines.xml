@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Mines>
+ 
+<Mine>
+ <IDS>2300089610</IDS>
+ <Name>mine01_mark01</Name>
+ <RealName>Drone Mine Dropper</RealName>
+</Mine>
+ 
+<Mine>
+ <IDS>2836977929</IDS>
+ <Name>mine02_mark01</Name>
+ <RealName>Seeker Mine Dropper</RealName>
+</Mine>
+ 
+<Mine>
+ <IDS>2836982026</IDS>
+ <Name>mine01_mark02</Name>
+ <RealName>Wardog Mine Dropper</RealName>
+</Mine>
+ 
+<Mine>
+ <IDS>2300093705</IDS>
+ <Name>mine02_mark02</Name>
+ <RealName>Razor Mine Dropper</RealName>
+</Mine>
+ 
+<Mine>
+ <IDS>2300116234</IDS>
+ <Name>mine01_mark03</Name>
+ <RealName>Tadpole Mine Dropper</RealName>
+</Mine>
+ 
+<Mine>
+ <IDS>2836967689</IDS>
+ <Name>mine02_mark03</Name>
+ <RealName>Driller Mine Dropper</RealName>
+</Mine>
+ 
+<Mine>
+ <IDS>2836926730</IDS>
+ <Name>mine01_mark04</Name>
+ <RealName>Swatter Mine Dropper</RealName>
+</Mine>
+ 
+<Mine>
+ <IDS>2300075273</IDS>
+ <Name>mine02_mark04</Name>
+ <RealName>Cutter Mine Dropper</RealName>
+</Mine>
+ 
+<Mine>
+ <IDS>2300052746</IDS>
+ <Name>mine01_mark05</Name>
+ <RealName>Screamer Mine Dropper</RealName>
+</Mine>
+ 
+<Mine>
+ <IDS>2836941065</IDS>
+ <Name>mine02_mark05</Name>
+ <RealName>Ripper Mine Dropper</RealName>
+</Mine>
+ 
+</Mines>

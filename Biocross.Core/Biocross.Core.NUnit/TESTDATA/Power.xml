@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Power>
+ 
+<Power>
+ <IDS>2553359424</IDS>
+ <Name>infinite_power</Name>
+ <RealName>Infinite Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2779996489</IDS>
+ <Name>ge_fighter_power01</Name>
+ <RealName>Starflier Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2182579915</IDS>
+ <Name>ge_fighter2_power01</Name>
+ <RealName>Startracker Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2194637003</IDS>
+ <Name>ge_fighter4_power01</Name>
+ <RealName>Hawk Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2195423681</IDS>
+ <Name>ge_fighter5_power01</Name>
+ <RealName>Falcon Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2189918923</IDS>
+ <Name>ge_fighter6_power01</Name>
+ <RealName>Eagle Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2722014858</IDS>
+ <Name>ge_train_power01</Name>
+ <RealName>Train Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2911550017</IDS>
+ <Name>ge_large_train_power01</Name>
+ <RealName>Large Train Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2548337857</IDS>
+ <Name>ge_transport_power01</Name>
+ <RealName>Transport Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2573097859</IDS>
+ <Name>ge_large_transport_power01</Name>
+ <RealName>Large Transport Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2592524426</IDS>
+ <Name>ge_prison_power01</Name>
+ <RealName>Prison Liner Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2898311171</IDS>
+ <Name>ge_lifter_power01</Name>
+ <RealName>Heavy Lifter Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2454314894</IDS>
+ <Name>ge_liner_power01</Name>
+ <RealName>Luxury Liner Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2463997902</IDS>
+ <Name>ge_miner_power01</Name>
+ <RealName>Mining Ship Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2440416965</IDS>
+ <Name>ge_repair_power01</Name>
+ <RealName>Repair Ship Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2293659904</IDS>
+ <Name>ge_csv_power01</Name>
+ <RealName>CSV Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2660060175</IDS>
+ <Name>ge_armored_power01</Name>
+ <RealName>Armored Transport Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2180305863</IDS>
+ <Name>li_fighter_power01</Name>
+ <RealName>Patriot Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2968894153</IDS>
+ <Name>li_elite_power01</Name>
+ <RealName>Defender Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2896957829</IDS>
+ <Name>li_freighter_power01</Name>
+ <RealName>Rhino Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>3040067276</IDS>
+ <Name>li_cruiser_power01</Name>
+ <RealName>Liberty Cruiser Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>3009625668</IDS>
+ <Name>li_dreadnought_power01</Name>
+ <RealName>Liberty Dreadnought Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>3139811086</IDS>
+ <Name>br_fighter_power01</Name>
+ <RealName>Cavalier Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2363039246</IDS>
+ <Name>br_elite_power01</Name>
+ <RealName>Crusader Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>3038861450</IDS>
+ <Name>br_freighter_power01</Name>
+ <RealName>Clydesdale Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2726897037</IDS>
+ <Name>br_gunboat_power01</Name>
+ <RealName>Bretonia Gunboat Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2493026244</IDS>
+ <Name>br_destroyer_power01</Name>
+ <RealName>Bretonia Destroyer Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2869216321</IDS>
+ <Name>br_battleship_power01</Name>
+ <RealName>Bretonia Battleship Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2559049420</IDS>
+ <Name>ku_fighter_power01</Name>
+ <RealName>Drake Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2679297037</IDS>
+ <Name>ku_elite_power01</Name>
+ <RealName>Dragon Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2368349760</IDS>
+ <Name>ku_freighter_power01</Name>
+ <RealName>Drone Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2167106639</IDS>
+ <Name>ku_gunboat_power01</Name>
+ <RealName>Kusari Gunboat Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2895376654</IDS>
+ <Name>ku_destroyer_power01</Name>
+ <RealName>Kusari Destroyer Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2691043020</IDS>
+ <Name>ku_battleship_power01</Name>
+ <RealName>Kusari Battleship Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2217753024</IDS>
+ <Name>rh_fighter_power01</Name>
+ <RealName>Banshee Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2936819917</IDS>
+ <Name>rh_elite_power01</Name>
+ <RealName>Valkyrie Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2757078158</IDS>
+ <Name>rh_freighter_power01</Name>
+ <RealName>Humpback Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2644290371</IDS>
+ <Name>rh_gunboat_power01</Name>
+ <RealName>Rheinland Gunboat Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2968999115</IDS>
+ <Name>rh_cruiser_power01</Name>
+ <RealName>Rheinland Cruiser Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>3220718660</IDS>
+ <Name>rh_battleship_power01</Name>
+ <RealName>Rheinland Battleship Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2421248832</IDS>
+ <Name>bh_fighter_power01</Name>
+ <RealName>Piranha Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2366526861</IDS>
+ <Name>bh_elite_power01</Name>
+ <RealName>Barracuda Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>3208063555</IDS>
+ <Name>bh_elite2_power01</Name>
+ <RealName>Hammerhead Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2864006792</IDS>
+ <Name>pi_fighter_power01</Name>
+ <RealName>Bloodhound Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2336623689</IDS>
+ <Name>pi_elite_power01</Name>
+ <RealName>Wolfhound Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2891391439</IDS>
+ <Name>pi_freighter_power01</Name>
+ <RealName>Mule Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2946888966</IDS>
+ <Name>bw_fighter_power01</Name>
+ <RealName>Dagger Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2895354511</IDS>
+ <Name>bw_elite_power01</Name>
+ <RealName>Stiletto Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2733166601</IDS>
+ <Name>bw_elite2_power01</Name>
+ <RealName>Sabre Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2638301386</IDS>
+ <Name>bw_freighter_power01</Name>
+ <RealName>Dromedary Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2582876104</IDS>
+ <Name>co_fighter_power01</Name>
+ <RealName>Legionnaire Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2403646734</IDS>
+ <Name>co_elite_power01</Name>
+ <RealName>Centurion Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2514394563</IDS>
+ <Name>co_elite2_power01</Name>
+ <RealName>Titan Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>3077351812</IDS>
+ <Name>or_elite_power01</Name>
+ <RealName>Anubis Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>3015408262</IDS>
+ <Name>no_fighter_power01</Name>
+ <RealName>Nomad Fighter Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2853693445</IDS>
+ <Name>no_gunboat_power01</Name>
+ <RealName>Nomad Gunboat Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2765008393</IDS>
+ <Name>no_battleship_power01</Name>
+ <RealName>Nomad Battleship Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2854475140</IDS>
+ <Name>or_elite_msn01_power01</Name>
+ <RealName>Order Ship (SPECIAL Elite) Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2367231247</IDS>
+ <Name>li_fighter_indestr_power01</Name>
+ <RealName>Patriot (SPECIAL Indestructable?) Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2472630863</IDS>
+ <Name>li_fighter_King_power01</Name>
+ <RealName>Patriot (SPECIAL King's) Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2659626630</IDS>
+ <Name>RTC_Lifeboat_power01</Name>
+ <RealName>RTC_Lifeboat (SPECIAL Unknown) Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>3103917188</IDS>
+ <Name>ge_armored_nobay_power01</Name>
+ <RealName>Armored Transport (SPECIAL No Bay, Civilian) Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2764472847</IDS>
+ <Name>li_elite2_power01</Name>
+ <RealName>Defender (SPECIAL Juni's) Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2446443268</IDS>
+ <Name>mission02_burning_transport_power01</Name>
+ <RealName>Transport (SPECIAL Burning) Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2831379393</IDS>
+ <Name>mission02_burning_l_elite_power01</Name>
+ <RealName>Defender (SPECIAL Burning Elite) Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>3023216266</IDS>
+ <Name>msn_playership_power01</Name>
+ <RealName>Starflier (SPECIAL Mission) Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2486740868</IDS>
+ <Name>debris_tosser_200_power01</Name>
+ <RealName>Patriot (SPECIAL Debris Tosser 200) Power Generator</RealName>
+</Power>
+ 
+<Power>
+ <IDS>2302605128</IDS>
+ <Name>ku_dragon_power01</Name>
+ <RealName>Dragon (SPECIAL Class 9) Power Generator</RealName>
+</Power>
+ 
+</Power>

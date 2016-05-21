@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Countermeasures>
+ 
+<Countermeasure>
+ <IDS>2736134149</IDS>
+ <Name>ge_s_cm_01</Name>
+ <RealName>Countermeasure Dropper</RealName>
+</Countermeasure>
+ 
+<Countermeasure>
+ <IDS>2199282693</IDS>
+ <Name>ge_s_cm_02</Name>
+ <RealName>Imp. Countermeasure Dropper</RealName>
+</Countermeasure>
+ 
+<Countermeasure>
+ <IDS>2736156677</IDS>
+ <Name>ge_s_cm_03</Name>
+ <RealName>Adv. Countermeasure Dropper</RealName>
+</Countermeasure>
+ 
+</Countermeasures>

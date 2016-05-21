@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Factions>
+ 
+<Faction>
+ <IDS>fc_ln_grp</IDS>
+ <RealName>Corrupt Liberty Navy</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>li_n_grp</IDS>
+ <RealName>Liberty Navy</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>li_lsf_grp</IDS>
+ <RealName>Liberty Security Force</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>li_p_grp</IDS>
+ <RealName>Liberty Police, Inc.</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>br_n_grp</IDS>
+ <RealName>Bretonia Armed Forces</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>br_p_grp</IDS>
+ <RealName>Bretonia Police</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_kn_grp</IDS>
+ <RealName>Corrupt Kusari Naval Forces</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>ku_n_grp</IDS>
+ <RealName>Kusari Naval Forces</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>ku_p_grp</IDS>
+ <RealName>Kusari State Police</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>rh_n_grp</IDS>
+ <RealName>Rheinland Military</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_rn_grp</IDS>
+ <RealName>Corrupt Rheinland Military</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>rh_p_grp</IDS>
+ <RealName>Rheinland Police</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_shi_grp</IDS>
+ <RealName>Samura Industries</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_khc_grp</IDS>
+ <RealName>Daumann Heavy Construction</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_kt_grp</IDS>
+ <RealName>Kishiro Technologies</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>br_m_grp</IDS>
+ <RealName>BMM</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_me_grp</IDS>
+ <RealName>Deep Space Engineering</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_be_grp</IDS>
+ <RealName>Border World Exports</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_rs_grp</IDS>
+ <RealName>Republican Shipping</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_vr_grp</IDS>
+ <RealName>Ageira Technologies</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_ni_grp</IDS>
+ <RealName>Synth Foods, Inc.</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>rh_m_grp</IDS>
+ <RealName>Kruger Minerals</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_ti_grp</IDS>
+ <RealName>Planetform, Inc.</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_ic_grp</IDS>
+ <RealName>Interspace Commerce</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_ss_grp</IDS>
+ <RealName>Universal Shipping</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_hsp_grp</IDS>
+ <RealName>Cryer Pharmaceuticals</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_alg_grp</IDS>
+ <RealName>ALG Waste Disposal</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_os_grp</IDS>
+ <RealName>Orbital Spa and Cruise</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>co_nws_grp</IDS>
+ <RealName>Gateway Shipping</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_c_grp</IDS>
+ <RealName>Corsairs</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_ou_grp</IDS>
+ <RealName>Outcasts</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_rh_grp</IDS>
+ <RealName>Red Hessians</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_bd_grp</IDS>
+ <RealName>Blood Dragons</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_j_grp</IDS>
+ <RealName>Junkers</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_h_grp</IDS>
+ <RealName>Hogosha</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_m_grp</IDS>
+ <RealName>Mollys</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_x_grp</IDS>
+ <RealName>Xenos</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_b_grp</IDS>
+ <RealName>Bundschuh</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_g_grp</IDS>
+ <RealName>Gaians</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_lh_grp</IDS>
+ <RealName>Lane Hackers</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_u_grp</IDS>
+ <RealName>Unioners</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_gc_grp</IDS>
+ <RealName>Golden Crysanthemums</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_lwb_grp</IDS>
+ <RealName>LWB</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_fa_grp</IDS>
+ <RealName>Farmers Alliance</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_lr_grp</IDS>
+ <RealName>Liberty Rogues</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_or_grp</IDS>
+ <RealName>The Order</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>gd_gm_grp</IDS>
+ <RealName>Gas Miners Guild</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_n_grp</IDS>
+ <RealName>Nomads</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>gd_im_grp</IDS>
+ <RealName>Independent Miners Guild</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>gd_z_grp</IDS>
+ <RealName>Zoners</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>gd_bh_grp</IDS>
+ <RealName>Bounty Hunters Guild</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_ouk_grp</IDS>
+ <RealName>Kress's Men</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_uk_grp</IDS>
+ <RealName>(no name)*</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_f_grp</IDS>
+ <RealName>Fugitive</RealName>
+</Faction>
+ 
+<Faction>
+ <IDS>fc_q_grp</IDS>
+ <RealName>Quintaine's Men</RealName>
+</Faction>
+  
+</Factions>

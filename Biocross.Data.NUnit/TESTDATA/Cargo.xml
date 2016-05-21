@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Cargo>
+ 
+<Cargo>
+ <IDS>2911012559</IDS>
+ <Name>ge_s_repair_01</Name>
+ <RealName>Nanobots</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2596081674</IDS>
+ <Name>ge_s_battery_01</Name>
+ <RealName>Shield Battery</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2999087814</IDS>
+ <Name>commodity_alien_organisms</Name>
+ <RealName>Alien Organisms</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2878617798</IDS>
+ <Name>commodity_alien_artifacts</Name>
+ <RealName>Artifacts</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2664163777</IDS>
+ <Name>commodity_basic_alloys</Name>
+ <RealName>Basic Alloy</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2723152328</IDS>
+ <Name>commodity_beryllium</Name>
+ <RealName>Beryllium</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2810414853</IDS>
+ <Name>commodity_boron</Name>
+ <RealName>Boron</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2312093509</IDS>
+ <Name>commodity_cardamine</Name>
+ <RealName>Cardamine</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3147243791</IDS>
+ <Name>commodity_cobalt</Name>
+ <RealName>Cobalt</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2293586633</IDS>
+ <Name>commodity_construction_machinery</Name>
+ <RealName>Construction Machinery</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2359289358</IDS>
+ <Name>commodity_consumer_goods</Name>
+ <RealName>Consumer Goods</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3200496391</IDS>
+ <Name>commodity_copper</Name>
+ <RealName>Copper</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2815770241</IDS>
+ <Name>commodity_diamonds</Name>
+ <RealName>Diamonds</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2571548236</IDS>
+ <Name>commodity_engine_components</Name>
+ <RealName>Engine Components</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2862341261</IDS>
+ <Name>commodity_fertilizers</Name>
+ <RealName>Fertilizer</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2863847232</IDS>
+ <Name>commodity_food</Name>
+ <RealName>Food Rations</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2866206539</IDS>
+ <Name>commodity_gold</Name>
+ <RealName>Gold</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2866034054</IDS>
+ <Name>commodity_H_fuel</Name>
+ <RealName>H-Fuel</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2792430274</IDS>
+ <Name>commodity_high_temp_alloys</Name>
+ <RealName>High Temperature Alloy</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2605271178</IDS>
+ <Name>commodity_ship_hull_panels</Name>
+ <RealName>Hull Panels</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2575917064</IDS>
+ <Name>commodity_hydrocarbons</Name>
+ <RealName>Hydrocarbons</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2182071621</IDS>
+ <Name>commodity_tradelane_parts</Name>
+ <RealName>Jump Gate / Trade Lane Parts</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3065229389</IDS>
+ <Name>commodity_sidearms</Name>
+ <RealName>Light Arms</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2479280836</IDS>
+ <Name>commodity_luxury_consumer_goods</Name>
+ <RealName>Luxury Consumer Goods</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2345786242</IDS>
+ <Name>commodity_luxury_food</Name>
+ <RealName>Luxury Food</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2181067140</IDS>
+ <Name>commodity_mining_machinery</Name>
+ <RealName>Mining Machinery</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2223065418</IDS>
+ <Name>commodity_mox_fuel</Name>
+ <RealName>MOX</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2977071884</IDS>
+ <Name>commodity_niobium</Name>
+ <RealName>Niobium</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2305243781</IDS>
+ <Name>commodity_optical_chips</Name>
+ <RealName>Optical Chips</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2260241671</IDS>
+ <Name>commodity_optronics</Name>
+ <RealName>Optronics</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2593638279</IDS>
+ <Name>commodity_oxygen</Name>
+ <RealName>Oxygen</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2551124489</IDS>
+ <Name>commodity_pharm</Name>
+ <RealName>Pharmaceuticals</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3062202251</IDS>
+ <Name>commodity_polymers</Name>
+ <RealName>Polymers</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2568345479</IDS>
+ <Name>commodity_prisoners</Name>
+ <RealName>Prisoners</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2587568141</IDS>
+ <Name>commodity_scrap_metal</Name>
+ <RealName>Scrap Metal</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2518124616</IDS>
+ <Name>commodity_silver</Name>
+ <RealName>Silver</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2517790468</IDS>
+ <Name>commodity_super_alloys</Name>
+ <RealName>Super Alloy</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3028160452</IDS>
+ <Name>commodity_superconductors</Name>
+ <RealName>Superconductors</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2418501773</IDS>
+ <Name>commodity_terraforming_gases</Name>
+ <RealName>Terraforming Gases</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2571848195</IDS>
+ <Name>commodity_toxic_waste</Name>
+ <RealName>Toxic Waste</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2433484363</IDS>
+ <Name>commodity_vips</Name>
+ <RealName>VIPs</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2532875145</IDS>
+ <Name>commodity_water</Name>
+ <RealName>Water</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2467774606</IDS>
+ <Name>rm_escape_pod</Name>
+ <RealName>Escape Pod</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2606882310</IDS>
+ <Name>rm_holoviral_counterfeiting_technology</Name>
+ <RealName>Counterfeiting Technology</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2475504129</IDS>
+ <Name>rm_fusion_weapon_components</Name>
+ <RealName>Fusion Weapon Components</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2452496320</IDS>
+ <Name>rm_classified_defense_plans</Name>
+ <RealName>Classified Defense Plans</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2184226447</IDS>
+ <Name>rm_biotoxic_nanobots</Name>
+ <RealName>Biotoxic Nanobots</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3023517390</IDS>
+ <Name>rm_secret_military_codes</Name>
+ <RealName>Secret Military Codes</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2828396103</IDS>
+ <Name>rm_anti-personnel_weapons</Name>
+ <RealName>Personnel Weapons</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2634074114</IDS>
+ <Name>rm_military_scramble_codes</Name>
+ <RealName>Military Scramble Codes</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2705817734</IDS>
+ <Name>rm_neophage_weapons</Name>
+ <RealName>Neophage Weapons</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3003269639</IDS>
+ <Name>rm_government_agents_list</Name>
+ <RealName>Government Agents List</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2971500675</IDS>
+ <Name>rm_dangerous_alien_artifacts</Name>
+ <RealName>Dangerous Alien Artifacts</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3082424587</IDS>
+ <Name>rm_alias_list</Name>
+ <RealName>Alias List</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2278638030</IDS>
+ <Name>rm_harvested_human_organs</Name>
+ <RealName>Harvested Human Organs</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2670838031</IDS>
+ <Name>rm_station_blueprints</Name>
+ <RealName>Station Blueprints</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2903475279</IDS>
+ <Name>rm_experimental_cloning_materials</Name>
+ <RealName>Experimental Cloning Materials</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2947083534</IDS>
+ <Name>rm_hidden_base_map</Name>
+ <RealName>Hidden Base Map</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2264195150</IDS>
+ <Name>rm_nerve_toxin</Name>
+ <RealName>Nerve Toxin </RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2440764611</IDS>
+ <Name>rm_list_of_double_agents</Name>
+ <RealName>List of Double Agents</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2261639811</IDS>
+ <Name>rm_old_fashioned_nuclear_devices</Name>
+ <RealName>Old Fashioned Nuclear Devices</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2627606859</IDS>
+ <Name>rm_stolen_industrial_secrets</Name>
+ <RealName>Stolen Industrial Secrets</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2152402501</IDS>
+ <Name>rm_heavy_water</Name>
+ <RealName>Heavy Water</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2577973390</IDS>
+ <Name>rm_smuggled_military_secrets</Name>
+ <RealName>Smuggled Military Secrets</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2608324236</IDS>
+ <Name>rm_genetically_enhanced_bacteria</Name>
+ <RealName>Genetically Enhanced Bacteria</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2543034701</IDS>
+ <Name>rm_classified_alien_research_</Name>
+ <RealName>Classified Alien Research</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3220157640</IDS>
+ <Name>rm_incendiary_planet_bombs</Name>
+ <RealName>Incendiary Planet Bombs</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2807002370</IDS>
+ <Name>rm_classified_military_research</Name>
+ <RealName>Classified Military Research</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2612470473</IDS>
+ <Name>rm_biohazardous_material</Name>
+ <RealName>Biohazardous Material</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2208893761</IDS>
+ <Name>rm_secret_industrial_research</Name>
+ <RealName>Secret Industrial Research</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2348068164</IDS>
+ <Name>rm_biowarfare_ampules</Name>
+ <RealName>Biowarfare Ampules</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3159830273</IDS>
+ <Name>rm_list_of_defense_network_backdoors</Name>
+ <RealName>List of Defense Network Backdoors</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2459944904</IDS>
+ <Name>rm_antimatter_bomb_components</Name>
+ <RealName>Antimatter Bomb Components</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2905052554</IDS>
+ <Name>rm_list_of_civilians_under_surveillance</Name>
+ <RealName>List of Civilians Under Surveillance</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3198517380</IDS>
+ <Name>rm_quantum_bomb_components</Name>
+ <RealName>Quantim Bomb Components</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2383732224</IDS>
+ <Name>rm_secret_files_on_government_officials</Name>
+ <RealName>Secret Files on Government Officials</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2553315846</IDS>
+ <Name>rm_hunter-killer_robots</Name>
+ <RealName>Hunter-Killer Robots</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2341271247</IDS>
+ <Name>rm_experimental_ship_research</Name>
+ <RealName>Experimental Ship Research</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2440094735</IDS>
+ <Name>rm_unstable_isotopes</Name>
+ <RealName>Unstable Isotopes</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2288095756</IDS>
+ <Name>rm_experimental_weapon_research</Name>
+ <RealName>Experimental Weapon Research</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2978678016</IDS>
+ <Name>rm_blistering_agents</Name>
+ <RealName>Blistering Agents</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2506555791</IDS>
+ <Name>rm_experimental_troop_enhancement_research</Name>
+ <RealName>Experimental Troop Enhancement Research</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2877175049</IDS>
+ <Name>rm_holstein_sea_serpent_venom</Name>
+ <RealName>Holstein Sea Serpent Venom</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2289590665</IDS>
+ <Name>rm_military_arms_data</Name>
+ <RealName>Military Arms Data</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2801769419</IDS>
+ <Name>rm_poisonous_plants</Name>
+ <RealName>Poisonous Plants</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2639840975</IDS>
+ <Name>rm_stolen_financial_codes</Name>
+ <RealName>Stolen Financial Codes</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2314552463</IDS>
+ <Name>rm_infectious_waste</Name>
+ <RealName>Infectious Waste</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2565128769</IDS>
+ <Name>rm_commodity_exchange_access_codes</Name>
+ <RealName>Commodity Exchange Access Codes</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2316725634</IDS>
+ <Name>rm_carnivorous_insectoids</Name>
+ <RealName>Carnivorous Insectoids</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2580135308</IDS>
+ <Name>rm_classified_base_plans</Name>
+ <RealName>Classified Base Plans</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2987282881</IDS>
+ <Name>rm_human_bomb_implants</Name>
+ <RealName>Human Bomb Implants</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2349095690</IDS>
+ <Name>rm_classified_battleship_specs</Name>
+ <RealName>Classified Battleship Specs</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2858217923</IDS>
+ <Name>rm_genetically_enhanced_phage</Name>
+ <RealName>Genetically Enhanced Phage</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3145633030</IDS>
+ <Name>rm_government_research_on_jump_holes</Name>
+ <RealName>Government Research on Jump Holes</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2907291596</IDS>
+ <Name>rm_viroids</Name>
+ <RealName>Viroids</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2404732995</IDS>
+ <Name>rm_classified_artifact_reports</Name>
+ <RealName>Classified Artifact Reports</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2270937857</IDS>
+ <Name>rm_hazardous_single_cell_innoculin</Name>
+ <RealName>Hazardous Single Cell Innoculin</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3207426688</IDS>
+ <Name>rm_classified_artifact_research</Name>
+ <RealName>Classified Artifact Research</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3042961544</IDS>
+ <Name>rm_mutagens</Name>
+ <RealName>Mutagens</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3066623241</IDS>
+ <Name>rm_military_troop_assignments</Name>
+ <RealName>Military Troop Assignments</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2822333639</IDS>
+ <Name>rm_chemical_waste</Name>
+ <RealName>Chemical Waste</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2836597062</IDS>
+ <Name>rm_military_threat_assessments</Name>
+ <RealName>Military Threat Assessments</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>3048081476</IDS>
+ <Name>rm_water_poisoning_supplies</Name>
+ <RealName>Water Poisoning Supplies</RealName>
+</Cargo>
+ 
+<Cargo>
+ <IDS>2623357323</IDS>
+ <Name>rm_military_defensive_weakness_profiles</Name>
+ <RealName>Military Defensive Weakness Profiles</RealName>
+</Cargo>
+ 
+</Cargo>

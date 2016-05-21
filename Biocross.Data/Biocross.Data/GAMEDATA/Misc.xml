@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Misc>
+ 
+<Misc>
+ <IDS>2500775748</IDS>
+ <Name>Contrail</Name>
+ <RealName>Contrail</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2356232010</IDS>
+ <Name>sfx_rumble_battleship</Name>
+ <RealName>sfx_rumble_battleship Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2629007880</IDS>
+ <Name>sfx_rumble_destroyer</Name>
+ <RealName>sfx_rumble_destroyer Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2726609805</IDS>
+ <Name>sfx_rumble_gunvessel</Name>
+ <RealName>sfx_rumble_gunvessel Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>3065516173</IDS>
+ <Name>sfx_rumble_cruiser</Name>
+ <RealName>sfx_rumble_cruiser Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2959689030</IDS>
+ <Name>sfx_rumble_ut_large</Name>
+ <RealName>sfx_rumble_ut_large Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2768557891</IDS>
+ <Name>sfx_rumble_ut_small</Name>
+ <RealName>sfx_rumble_ut_small Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2818830413</IDS>
+ <Name>sfx_rumble_ut_miner</Name>
+ <RealName>sfx_rumble_ut_miner Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2852390475</IDS>
+ <Name>sfx_rumble_lifter</Name>
+ <RealName>sfx_rumble_lifter Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>3150769097</IDS>
+ <Name>sfx_rumble_liner</Name>
+ <RealName>sfx_rumble_liner Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2809007887</IDS>
+ <Name>sfx_rumble_nomad</Name>
+ <RealName>sfx_rumble_nomad Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2248647617</IDS>
+ <Name>sfx_rumble_train</Name>
+ <RealName>sfx_rumble_train Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>3115493318</IDS>
+ <Name>sfx_rumble_gas_miner</Name>
+ <RealName>sfx_rumble_gas_miner Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2569896000</IDS>
+ <Name>sfx_rumble_platform</Name>
+ <RealName>sfx_rumble_platform Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2621619471</IDS>
+ <Name>sfx_rumble_station_small</Name>
+ <RealName>sfx_rumble_station_small Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2301570826</IDS>
+ <Name>sfx_rumble_station_large</Name>
+ <RealName>sfx_rumble_station_large Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2899504910</IDS>
+ <Name>sfx_rumble_trading_depot</Name>
+ <RealName>sfx_rumble_trading_depot Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>3188013903</IDS>
+ <Name>sfx_rumble_trading_outpost</Name>
+ <RealName>sfx_rumble_trading_outpost Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>3071340547</IDS>
+ <Name>sfx_rumble_gas_collector</Name>
+ <RealName>sfx_rumble_gas_collector Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2711572288</IDS>
+ <Name>sfx_rumble_solar_plant</Name>
+ <RealName>sfx_rumble_solar_plant Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2177234441</IDS>
+ <Name>smallstation_animate2</Name>
+ <RealName>smallstation_animate2 Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2957318919</IDS>
+ <Name>mplatform_animate1</Name>
+ <RealName>mplatform_animate1 Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2435173263</IDS>
+ <Name>Gas_miner</Name>
+ <RealName>Gas_miner Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2179849546</IDS>
+ <Name>trading_outpost</Name>
+ <RealName>trading_outpost Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2889506883</IDS>
+ <Name>depot_wallah</Name>
+ <RealName>depot_wallah Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2596470089</IDS>
+ <Name>outpost_wallah</Name>
+ <RealName>outpost_wallah Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2990020618</IDS>
+ <Name>Conveyor</Name>
+ <RealName>Conveyor Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>3122965067</IDS>
+ <Name>mining_ship_engine_sound</Name>
+ <RealName>mining_ship_engine_sound Sound</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2292259203</IDS>
+ <Name>cargopod_player</Name>
+ <RealName>Cargo Pod (for transports)</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>3128705348</IDS>
+ <Name>mining_ship_enhaust</Name>
+ <RealName>mining_ship_enhaust</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2482465546</IDS>
+ <Name>armor_scale_-5</Name>
+ <RealName>Armor Multiplier 0.250000</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>3019341578</IDS>
+ <Name>armor_scale_-4</Name>
+ <RealName>Armor Multiplier 0.533650</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2482475786</IDS>
+ <Name>armor_scale_-3</Name>
+ <RealName>Armor Multiplier 0.624371</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>3019343626</IDS>
+ <Name>armor_scale_-2</Name>
+ <RealName>Armor Multiplier 0.730514</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2482502410</IDS>
+ <Name>armor_scale_-1</Name>
+ <RealName>Armor Multiplier 0.854701</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2404401738</IDS>
+ <Name>armor_scale_0</Name>
+ <RealName>Armor Multiplier 1</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2941277770</IDS>
+ <Name>armor_scale_1</Name>
+ <RealName>Armor Multiplier 1.170000</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2404395594</IDS>
+ <Name>armor_scale_2</Name>
+ <RealName>Armor Multiplier 1.368900</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2941271626</IDS>
+ <Name>armor_scale_3</Name>
+ <RealName>Armor Multiplier 1.601613</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2404438602</IDS>
+ <Name>armor_scale_4</Name>
+ <RealName>Armor Multiplier 1.873887</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2941306442</IDS>
+ <Name>armor_scale_5</Name>
+ <RealName>Armor Multiplier 2.192448</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2404432458</IDS>
+ <Name>armor_scale_6</Name>
+ <RealName>Armor Multiplier 2.565164</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>3002954759</IDS>
+ <Name>MSN_battleship_armor</Name>
+ <RealName>Armor Multiplier 2.886002</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2941300298</IDS>
+ <Name>armor_scale_7</Name>
+ <RealName>Armor Multiplier 3.001242</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2404475466</IDS>
+ <Name>armor_scale_8</Name>
+ <RealName>Armor Multiplier 3.511453</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2941351498</IDS>
+ <Name>armor_scale_9</Name>
+ <RealName>Armor Multiplier 4.108400</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2957504138</IDS>
+ <Name>armor_scale_10</Name>
+ <RealName>Armor Multiplier 4.806828</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2420636298</IDS>
+ <Name>armor_scale_11</Name>
+ <RealName>Armor Multiplier 5.623989</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2957477514</IDS>
+ <Name>armor_scale_12</Name>
+ <RealName>Armor Multiplier 6.580067</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2420609674</IDS>
+ <Name>armor_scale_13</Name>
+ <RealName>Armor Multiplier 7.698679</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2420572810</IDS>
+ <Name>armor_scale_17</Name>
+ <RealName>Armor Multiplier 14.426456</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2418801280</IDS>
+ <Name>armor_scale_21</Name>
+ <RealName>Armor Multiplier 27.033550</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>3140213453</IDS>
+ <Name>MSN11_armor_scale_wplatform</Name>
+ <RealName>Armor Multiplier 30</RealName>
+</Misc>
+ 
+<Misc>
+ <IDS>2559961862</IDS>
+ <Name>armor_scale_invincible</Name>
+ <RealName>Armor Multiplier Invincible</RealName>
+</Misc>
+ 
+</Misc>

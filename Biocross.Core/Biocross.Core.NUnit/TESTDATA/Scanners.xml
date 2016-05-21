@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Scanners>
+ 
+<Scanner>
+ <IDS>2579363392</IDS>
+ <Name>ge_s_scanner_base</Name>
+ <RealName>ge_s_scanner_base</RealName>
+</Scanner>
+ 
+<Scanner>
+ <IDS>2723858309</IDS>
+ <Name>ge_s_scanner_01</Name>
+ <RealName>Scanner</RealName>
+</Scanner>
+ 
+<Scanner>
+ <IDS>2186984325</IDS>
+ <Name>ge_s_scanner_02</Name>
+ <RealName>Deep Scanner</RealName>
+</Scanner>
+ 
+<Scanner>
+ <IDS>2723852165</IDS>
+ <Name>ge_s_scanner_03</Name>
+ <RealName>ge_s_scanner_03</RealName>
+</Scanner>
+ 
+<Scanner>
+ <IDS>2186953605</IDS>
+ <Name>ge_s_scanner_04</Name>
+ <RealName>ge_s_scanner_04</RealName>
+</Scanner>
+ 
+</Scanners>
