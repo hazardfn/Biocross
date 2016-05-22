@@ -4,22 +4,23 @@ using System.Reflection;
 using Biocross.Data;
 using Biocross.Core.Item;
 using Biocross.Core.Exceptions;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
+
 
 namespace Biocross.Core.NUnit.Item
 {
-    [TestClass]
+    [TestFixture]
     public class BaseUnit
     {
         private static DataInterface di = new DataInterface(@Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\biodata.mdf", "TESTDATA/");
 
         #region Test Setup
-        [ClassInitialize]
-        public static void setup(TestContext c)
+        [OneTimeSetUp]
+        public static void setup()
         {
             di.init();
         }
-        [ClassCleanup]
+        [OneTimeTearDown]
         public static void cleanup()
         {
             di.Dispose();
@@ -27,37 +28,37 @@ namespace Biocross.Core.NUnit.Item
         #endregion
 
         #region Base Class
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Base")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Base")]
         public void testBaseBasic()
         {
             Base station = new Base("li01_03_base", di);
             Assert.AreEqual("Battleship Missouri", station.Name);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Base")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Base")]
         public void testBaseCaseInsensitive()
         {
             Base station = new Base("Li01_03_BaSe", di);
             Assert.AreEqual("Battleship Missouri", station.Name);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Base")]
-        [ExpectedException(typeof(GamedataMismatchException))]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Base")]
+        
         public void testBaseTypeCheck()
         {
-            // This is a projectile, oops! Should error!
-            new Base("3024613711", di);
+            // This is a projectile, Should error!
+            Assert.Throws<GamedataMismatchException>(() => new Base("3024613711", di));
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Base")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Base")]
         public void testBaseSetIDS()
         {
             Base station = new Base("Li01_03_Base", di);

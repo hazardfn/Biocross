@@ -4,23 +4,23 @@ using System.Reflection;
 using Biocross.Data;
 using Biocross.Core.Item;
 using Biocross.Core.Exceptions;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace Biocross.Core.NUnit.Item
 {
-    [TestClass]
+    [TestFixture]
     public class ScannerUnit
     {
 
         private static DataInterface di = new DataInterface(@Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\biodata.mdf", "TESTDATA/");
 
         #region Test Setup
-        [ClassInitialize]
-        public static void setup(TestContext c)
+        [OneTimeSetUp]
+        public static void setup()
         {
             di.init();
         }
-        [ClassCleanup]
+        [OneTimeTearDown]
         public static void cleanup()
         {
             di.Dispose();
@@ -28,28 +28,27 @@ namespace Biocross.Core.NUnit.Item
         #endregion
 
         #region Scanner Class
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Scanner")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Scanner")]
         public void testScannerBasic()
         {
             Scanner scanner = new Scanner("2186984325", di);
             Assert.AreEqual("Deep Scanner", scanner.Name);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Scanner")]
-        [ExpectedException(typeof(GamedataMismatchException))]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Scanner")]
         public void testScannerTypeCheck()
         {
-            // This is a Power Generator, oops! Should error!
-            new Scanner("2182579915", di);
+            // This is a Power Generator, Should error!
+            Assert.Throws<GamedataMismatchException>(() => new Scanner("2182579915", di));
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Scanner")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Scanner")]
         public void testScannerSetIDS()
         {
             Scanner scanner = new Scanner("2186984325", di);

@@ -3,22 +3,23 @@ using System.IO;
 using System.Reflection;
 using Biocross.Data;
 using Biocross.Core.Item;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
+using Biocross.Core.Exceptions;
 
 namespace Biocross.Core.NUnit.Item
 {
-    [TestClass]
+    [TestFixture]
     public class FactionUnit
     {
         private static DataInterface di = new DataInterface(@Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\biodata.mdf", "TESTDATA/");
 
         #region Test Setup
-        [ClassInitialize]
-        public static void setup(TestContext c)
+        [OneTimeSetUp]
+        public static void setup()
         {
             di.init();
         }
-        [ClassCleanup]
+        [OneTimeTearDown]
         public static void cleanup()
         {
             di.Dispose();
@@ -26,9 +27,9 @@ namespace Biocross.Core.NUnit.Item
         #endregion
 
         #region Faction Class
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Faction")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Faction")]
         public void testFactionBasic()
         {
             Faction faction = new Faction("li_p_grp", 0.9, di);
@@ -36,9 +37,9 @@ namespace Biocross.Core.NUnit.Item
             Assert.AreEqual(0.9, faction.Reputation);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Faction")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Faction")]
         public void testFactionSetReputation()
         {
             Faction faction = new Faction("li_p_grp", 0.9, di);
@@ -50,14 +51,13 @@ namespace Biocross.Core.NUnit.Item
             Assert.AreEqual(0.1, faction.Reputation);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Faction")]
-        [ExpectedException(typeof(Biocross.Core.Exceptions.GamedataMismatchException))]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Faction")]
         public void testFactionTypeCheck()
         {
-            // This is a system, oops! Should error!
-            new Faction("Li05", 0.8, di);
+            // This is a system, Should error!
+            Assert.Throws<GamedataMismatchException>(() => new Faction("Li05", 0.8, di));
         }
         #endregion
     }

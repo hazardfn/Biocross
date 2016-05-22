@@ -4,23 +4,23 @@ using System.Reflection;
 using Biocross.Data;
 using Biocross.Core.Item;
 using Biocross.Core.Exceptions;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace Biocross.Core.NUnit.Item
 {
-    [TestClass]
+    [TestFixture]
     public class ShieldUnit
     {
 
         private static DataInterface di = new DataInterface(@Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\biodata.mdf", "TESTDATA/");
 
         #region Test Setup
-        [ClassInitialize]
-        public static void setup(TestContext c)
+        [OneTimeSetUp]
+        public static void setup()
         {
             di.init();
         }
-        [ClassCleanup]
+        [OneTimeTearDown]
         public static void cleanup()
         {
             di.Dispose();
@@ -28,28 +28,28 @@ namespace Biocross.Core.NUnit.Item
         #endregion
 
         #region Shield Class
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Shield")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Shield")]
         public void testShieldBasic()
         {
             Shield shield = new Shield("3090148620", di);
             Assert.AreEqual("Sentinel L. F. Shield (Class 5 Graviton)", shield.Name);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Shield")]
-        [ExpectedException(typeof(GamedataMismatchException))]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Shield")]
+        
         public void testShieldTypeCheck()
         {
-            // This is a Power Generator, oops! Should error!
-            new Shield("2182579915", di);
+            // This is a Power Generator, Should error!
+            Assert.Throws<GamedataMismatchException>(() => new Shield("2182579915", di));
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Shield")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Shield")]
         public void testShieldSetIDS()
         {
             Shield shield = new Shield("3090148620", di);

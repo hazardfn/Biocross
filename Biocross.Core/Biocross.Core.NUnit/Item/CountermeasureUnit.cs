@@ -4,23 +4,24 @@ using System.Reflection;
 using Biocross.Data;
 using Biocross.Core.Item;
 using Biocross.Core.Exceptions;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
+
 
 namespace Biocross.Core.NUnit.Item
 {
-    [TestClass]
+    [TestFixture]
     public class CountermeasureUnit
     {
 
         private static DataInterface di = new DataInterface(@Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\biodata.mdf", "TESTDATA/");
 
         #region Test Setup
-        [ClassInitialize]
-        public static void setup(TestContext c)
+        [OneTimeSetUp]
+        public static void setup()
         {
             di.init();
         }
-        [ClassCleanup]
+        [OneTimeTearDown]
         public static void cleanup()
         {
             di.Dispose();
@@ -28,28 +29,27 @@ namespace Biocross.Core.NUnit.Item
         #endregion
 
         #region Countermeasure Class
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("CM")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("CM")]
         public void testCountermeasureBasic()
         {
             Countermeasure cm = new Countermeasure("2736156677", di);
             Assert.AreEqual("Adv. Countermeasure Dropper", cm.Name);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("CM")]
-        [ExpectedException(typeof(GamedataMismatchException))]
+        [Test]
+        [Category("Gamedata")]
+        [Category("CM")]
         public void testCountermeasureTypeCheck()
         {
-            // This is a projectile, oops! Should error!
-            new Countermeasure("3024613711", di);
+            // This is a projectile, Should error!
+            Assert.Throws<GamedataMismatchException>(() => new Countermeasure("3024613711", di));
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("CM")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("CM")]
         public void testCountermeasureSetIDS()
         {
             Countermeasure cm = new Countermeasure("2736156677", di);

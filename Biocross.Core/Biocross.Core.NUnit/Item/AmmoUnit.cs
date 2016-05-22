@@ -4,23 +4,24 @@ using System.Reflection;
 using Biocross.Data;
 using Biocross.Core.Item;
 using Biocross.Core.Exceptions;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
+
 
 namespace Biocross.Core.NUnit.Item
 {
-    [TestClass]
+    [TestFixture]
     public class AmmoUnit
     {
 
         private static DataInterface di = new DataInterface(@Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\biodata.mdf", "TESTDATA/");
 
         #region Test Setup
-        [ClassInitialize]
-        public static void setup(TestContext c)
+        [OneTimeSetUp]
+        public static void setup()
         {
             di.init();
         }
-        [ClassCleanup]
+        [OneTimeTearDown]
         public static void cleanup()
         {
             di.Dispose();
@@ -28,9 +29,9 @@ namespace Biocross.Core.NUnit.Item
         #endregion
 
         #region Ammo Class
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Ammo")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Ammo")]
         public void testAmmoBasic()
         {
             Ammo ammo = new Ammo("3149084366", 1, di);
@@ -38,19 +39,18 @@ namespace Biocross.Core.NUnit.Item
             Assert.AreEqual(1, ammo.Quantity);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Ammo")]
-        [ExpectedException(typeof(GamedataMismatchException))]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Ammo")]
         public void testAmmoTypeCheck()
         {
-            // This is a projectile, oops! Should error!
-            new Ammo("3024613711", 0, di);
+            // This is a projectile, Should error!
+            Assert.Throws<GamedataMismatchException>(() => new Ammo("3024613711", 0, di));
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Ammo")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Ammo")]
         public void testAmmoSetQuantity()
         {
             Ammo ammo = new Ammo("3149084366", 1, di);
@@ -62,9 +62,9 @@ namespace Biocross.Core.NUnit.Item
             Assert.AreEqual(2, ammo.Quantity);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Ammo")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Ammo")]
         public void testAmmoSetIDS()
         {
             Ammo ammo = new Ammo("3149084366", 1, di);

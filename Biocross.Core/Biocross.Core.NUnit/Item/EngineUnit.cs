@@ -4,22 +4,23 @@ using System.Reflection;
 using Biocross.Data;
 using Biocross.Core.Item;
 using Biocross.Core.Exceptions;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
+
 
 namespace Biocross.Core.NUnit.Item
 {
-    [TestClass]
+    [TestFixture]
     public class EngineUnit
     {
         private static DataInterface di = new DataInterface(@Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\biodata.mdf", "TESTDATA/");
 
         #region Test Setup
-        [ClassInitialize]
-        public static void setup(TestContext c)
+        [OneTimeSetUp]
+        public static void setup()
         {
             di.init();
         }
-        [ClassCleanup]
+        [OneTimeTearDown]
         public static void cleanup()
         {
             di.Dispose();
@@ -27,28 +28,27 @@ namespace Biocross.Core.NUnit.Item
         #endregion
 
         #region Engine Class
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Engine")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Engine")]
         public void testEngineBasic()
         {
             Engine engine = new Engine("3147096135", di);
             Assert.AreEqual("Titan Engine", engine.Name);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Engine")]
-        [ExpectedException(typeof(GamedataMismatchException))]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Engine")]
         public void testEngineTypeCheck()
         {
-            // This is a projectile, oops! Should error!
-            new Engine("3024613711", di);
+            // This is a projectile, Should error!
+            Assert.Throws<GamedataMismatchException>(() => new Engine("3024613711", di));
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Engine")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Engine")]
         public void testEngineSetIDS()
         {
             Engine engine = new Engine("3147096135", di);

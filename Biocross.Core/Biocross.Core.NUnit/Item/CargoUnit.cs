@@ -3,22 +3,23 @@ using System.IO;
 using System.Reflection;
 using Biocross.Data;
 using Biocross.Core.Item;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
+using Biocross.Core.Exceptions;
 
 namespace Biocross.Core.NUnit.Item
 {
-    [TestClass]
+    [TestFixture]
     public class CargoUnit
     {
         private static DataInterface di = new DataInterface(@Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\biodata.mdf", "TESTDATA/");
 
         #region Test Setup
-        [ClassInitialize]
-        public static void setup(TestContext c)
+        [OneTimeSetUp]
+        public static void setup()
         {
             di.init();
         }
-        [ClassCleanup]
+        [OneTimeTearDown]
         public static void cleanup()
         {
             di.Dispose();
@@ -26,9 +27,9 @@ namespace Biocross.Core.NUnit.Item
         #endregion
 
         #region Cargo Class
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Cargo")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Cargo")]
         public void testCargoBasic()
         {
             Cargo cargo = new Cargo("2878617798", 1, di);
@@ -36,19 +37,18 @@ namespace Biocross.Core.NUnit.Item
             Assert.AreEqual(1, cargo.Quantity);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Cargo")]
-        [ExpectedException(typeof(Biocross.Core.Exceptions.GamedataMismatchException))]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Cargo")]
         public void testCargoTypeCheck()
         {
-            // This is a projectile, oops! Should error!
-            new Cargo("3024613711", 0, di);
+            // This is a projectile, Should error!
+            Assert.Throws<GamedataMismatchException>(() => new Cargo("3024613711", 0, di));
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Cargo")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Cargo")]
         public void testCargoSetQuantity()
         {
             Cargo cargo = new Cargo("2878617798", 1, di);
@@ -60,9 +60,9 @@ namespace Biocross.Core.NUnit.Item
             Assert.AreEqual(2, cargo.Quantity);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Cargo")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Cargo")]
         public void testCargoSetIDS()
         {
             Cargo cargo = new Cargo("2878617798", 1, di);

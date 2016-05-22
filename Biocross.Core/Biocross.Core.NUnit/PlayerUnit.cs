@@ -3,13 +3,13 @@ using System.IO;
 using System.Reflection;
 using Biocross.Data;
 using Biocross.Core.Item;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 using System.Linq;
 using System.Collections.Generic;
 
 namespace Biocross.Core.NUnit
 {
-    [TestClass]
+    [TestFixture]
     public class PlayerUnit
     {
         /// <summary>
@@ -29,8 +29,8 @@ namespace Biocross.Core.NUnit
         private static Player playerSpace;
 
         #region Setup and Teardown
-        [ClassInitialize]
-        public static void init(TestContext c)
+        [SetUp]
+        public void init()
         {
             if (Player.isEncoded(PlayerUnit.flFileLocation))
                 Assert.AreEqual((IntPtr)0, Player.decodePlayerFile(PlayerUnit.flFileLocation));
@@ -44,13 +44,13 @@ namespace Biocross.Core.NUnit
             PlayerUnit.playerSpace = new Player(PlayerUnit.flFileLocationSpace, di);
         }
 
-        [ClassCleanup]
-        public static void cleanup()
+        [OneTimeTearDown]
+        public void cleanup()
         {
             PlayerUnit.di.Dispose();
         }
 
-        [TestCleanup]
+        [TearDown]
         public void testcleanup()
         {
             if (Player.isEncoded(PlayerUnit.flFileLocation))
@@ -68,8 +68,8 @@ namespace Biocross.Core.NUnit
         /// <summary>
         /// Tests we can decode a player file.
         /// </summary>
-        [TestMethod]
-        [TestCategory("FL File")]
+        [Test]
+        [Category("FL File")]
         public void canDecodeFLFile()
         {
             Assert.AreEqual((IntPtr)0, Player.encodePlayerFile(PlayerUnit.flFileLocation));
@@ -80,8 +80,8 @@ namespace Biocross.Core.NUnit
         /// <summary>
         /// Tests we can encode a player file.
         /// </summary>
-        [TestMethod]
-        [TestCategory("FL File")]
+        [Test]
+        [Category("FL File")]
         public void canEncodeFLFile()
         {
             Assert.AreEqual((IntPtr)0, Player.encodePlayerFile(PlayerUnit.flFileLocation));
@@ -91,23 +91,23 @@ namespace Biocross.Core.NUnit
 
         #region Player Tests
         #region Read Tests
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadName()
         {
             Assert.AreEqual(PlayerUnit.player.Name, "Test");
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadRank()
         {
             Assert.AreEqual(PlayerUnit.player.Rank, 1);
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadFactionData()
         {
             foreach(Faction f in player.Factions)
@@ -116,9 +116,9 @@ namespace Biocross.Core.NUnit
                 Assert.AreEqual(GamedataSchema.GAMEDATAFACTIONS, di.getTypeFromIDS(f.IDS));
             }
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadAlignment()
         {
             Faction f = player.Alignment;
@@ -126,58 +126,58 @@ namespace Biocross.Core.NUnit
             Assert.IsTrue(f.Reputation >= -1 && f.Reputation <= 1);
             Assert.AreEqual(GamedataSchema.GAMEDATAFACTIONS, di.getTypeFromIDS(f.IDS));
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadMoney()
         {
             Assert.AreEqual(2000, PlayerUnit.player.Money);
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadKills()
         {
             Assert.AreEqual(0, PlayerUnit.player.Kills);
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadMissionSuccess()
         {
             Assert.AreEqual(0, PlayerUnit.player.SuccessfulMissions);
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadFailedMissions()
         {
             Assert.AreEqual(0, PlayerUnit.player.FailedMissons);
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadSystem()
         {
             Assert.AreEqual(new Core.Item.System("li01", di).Name, PlayerUnit.player.CurrentSystem.Name);
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadCurrentBase()
         {
             Assert.AreEqual(new Base("li01_01_base", di).Name, PlayerUnit.player.CurrentBase.Name);
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadShip()
         {
             Assert.AreEqual(new Ship("2151746432", di).Name, PlayerUnit.player.Ship.Name);
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadEquipment()
         {
             Assert.AreEqual(new Shield("3088051465", di).Name, PlayerUnit.player.Shields[0].Name);
@@ -200,9 +200,9 @@ namespace Biocross.Core.NUnit
             Assert.AreEqual(new Misc("2500775748", di).Name, PlayerUnit.player.Misc[0].Name);
             Assert.AreEqual(new Misc("2500775748", di).Name, PlayerUnit.player.Misc[1].Name);
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadCargo()
         {
             Assert.AreEqual(new Cargo("2596081674",3, di).Name, PlayerUnit.player.Cargo[0].Name);
@@ -211,45 +211,45 @@ namespace Biocross.Core.NUnit
             Assert.AreEqual(new Cargo("2911012559", 3, di).Name, PlayerUnit.player.Cargo[1].Name);
             Assert.AreEqual(3, PlayerUnit.player.Cargo[1].Quantity);
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadLastBase()
         {
             Assert.AreEqual(new Base("li01_01_base", di).Name, PlayerUnit.player.LastBase.Name);
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadTotalCashEarned()
         {
             Assert.AreEqual(0, PlayerUnit.player.totalCashEarned);
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadTimePlayed()
         {
             Assert.AreEqual(11, PlayerUnit.player.PlayerTime.Seconds);
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadPositionalData()
         {
             Assert.AreEqual(PlayerUnit.playerSpace.PositionData, "-33167.9,196.429,-27367.6");
             Assert.AreEqual(PlayerUnit.playerSpace.RotationData, "-156.426,-23.1356,178.895");
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadDescription()
         {
             Assert.AreEqual(PlayerUnit.player.Description, "09/27/15 14:38:22");
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Read Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Read Tests")]
         public void canReadTimestamp()
         {
             Assert.AreEqual(PlayerUnit.player.Timestamp, "30472498,690674592");
@@ -257,9 +257,9 @@ namespace Biocross.Core.NUnit
         #endregion
 
         #region Write Tests
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Write Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Write Tests")]
         public void writeNameFails()
         {
             Assert.AreEqual(PlayerUnit.player.Name, "Test");
@@ -269,9 +269,9 @@ namespace Biocross.Core.NUnit
             Assert.AreEqual(Player.savePlayer("test_name.fl", newPlayer, di).Name, "Test");
             File.Delete("test_name.fl");
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Write Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Write Tests")]
         public void canWriteRank()
         {
             Assert.AreEqual(PlayerUnit.player.Rank, 1);
@@ -282,9 +282,9 @@ namespace Biocross.Core.NUnit
             Assert.AreEqual(Player.savePlayer("test_rank.fl", newPlayer, di).Rank, Int32.Parse(randomRank));
             File.Delete("test_rank.fl");
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Write Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Write Tests")]
         public void canWriteFactionData()
         {
             List<KeyValuePair<string, string>> newFactions = new List<KeyValuePair<string, string>>();
@@ -311,9 +311,9 @@ namespace Biocross.Core.NUnit
 
             File.Delete("test_factions.fl");
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Write Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Write Tests")]
         public void canWriteAlignment()
         {
             List<KeyValuePair<string, string>> newAlignment = new List<KeyValuePair<string, string>>();
@@ -329,9 +329,9 @@ namespace Biocross.Core.NUnit
             Assert.AreEqual(Player.savePlayer("test_alignment.fl", newPlayer, di).Alignment.IDS,f.IDS);
             File.Delete("test_alignment.fl");
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Write Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Write Tests")]
         public void canWriteMoney()
         {
             Assert.AreEqual(PlayerUnit.player.Money, 2000);
@@ -342,9 +342,9 @@ namespace Biocross.Core.NUnit
             Assert.AreEqual(Player.savePlayer("test_money.fl", newPlayer, di).Money, Int32.Parse(randomMoney));
             File.Delete("test_money.fl");
         }
-        [TestMethod]
-        [TestCategory("Player")]
-        [TestCategory("Player Write Tests")]
+        [Test]
+        [Category("Player")]
+        [Category("Player Write Tests")]
         public void canWriteKills()
         {
             Assert.AreEqual(PlayerUnit.player.Kills, 0);
@@ -355,44 +355,44 @@ namespace Biocross.Core.NUnit
             Assert.AreEqual(Player.savePlayer("test_kills.fl", newPlayer, di).Kills, Int32.Parse(randomKills));
             File.Delete("test_kills.fl");
         }
-        //[TestMethod]
-        //[TestCategory("Player")]
-        //[TestCategory("Player Read Tests")]
+        //[Test]
+        //[Category("Player")]
+        //[Category("Player Read Tests")]
         //public void canReadMissionSuccess()
         //{
         //    Assert.AreEqual(0, PlayerUnit.player.SuccessfulMissions);
         //}
-        //[TestMethod]
-        //[TestCategory("Player")]
-        //[TestCategory("Player Read Tests")]
+        //[Test]
+        //[Category("Player")]
+        //[Category("Player Read Tests")]
         //public void canReadFailedMissions()
         //{
         //    Assert.AreEqual(0, PlayerUnit.player.FailedMissons);
         //}
-        //[TestMethod]
-        //[TestCategory("Player")]
-        //[TestCategory("Player Read Tests")]
+        //[Test]
+        //[Category("Player")]
+        //[Category("Player Read Tests")]
         //public void canReadSystem()
         //{
         //    Assert.AreEqual(new Core.Item.System("li01", di).Name, PlayerUnit.player.CurrentSystem.Name);
         //}
-        //[TestMethod]
-        //[TestCategory("Player")]
-        //[TestCategory("Player Read Tests")]
+        //[Test]
+        //[Category("Player")]
+        //[Category("Player Read Tests")]
         //public void canReadCurrentBase()
         //{
         //    Assert.AreEqual(new Base("li01_01_base", di).Name, PlayerUnit.player.CurrentBase.Name);
         //}
-        //[TestMethod]
-        //[TestCategory("Player")]
-        //[TestCategory("Player Read Tests")]
+        //[Test]
+        //[Category("Player")]
+        //[Category("Player Read Tests")]
         //public void canReadShip()
         //{
         //    Assert.AreEqual(new Ship("2151746432", di).Name, PlayerUnit.player.Ship.Name);
         //}
-        //[TestMethod]
-        //[TestCategory("Player")]
-        //[TestCategory("Player Read Tests")]
+        //[Test]
+        //[Category("Player")]
+        //[Category("Player Read Tests")]
         //public void canReadEquipment()
         //{
         //    Assert.AreEqual(new Shield("3088051465", di).Name, PlayerUnit.player.Shields[0].Name);
@@ -415,9 +415,9 @@ namespace Biocross.Core.NUnit
         //    Assert.AreEqual(new Misc("2500775748", di).Name, PlayerUnit.player.Misc[0].Name);
         //    Assert.AreEqual(new Misc("2500775748", di).Name, PlayerUnit.player.Misc[1].Name);
         //}
-        //[TestMethod]
-        //[TestCategory("Player")]
-        //[TestCategory("Player Read Tests")]
+        //[Test]
+        //[Category("Player")]
+        //[Category("Player Read Tests")]
         //public void canReadCargo()
         //{
         //    Assert.AreEqual(new Cargo("2596081674", 3, di).Name, PlayerUnit.player.Cargo[0].Name);
@@ -426,45 +426,45 @@ namespace Biocross.Core.NUnit
         //    Assert.AreEqual(new Cargo("2911012559", 3, di).Name, PlayerUnit.player.Cargo[1].Name);
         //    Assert.AreEqual(3, PlayerUnit.player.Cargo[1].Quantity);
         //}
-        //[TestMethod]
-        //[TestCategory("Player")]
-        //[TestCategory("Player Read Tests")]
+        //[Test]
+        //[Category("Player")]
+        //[Category("Player Read Tests")]
         //public void canReadLastBase()
         //{
         //    Assert.AreEqual(new Base("li01_01_base", di).Name, PlayerUnit.player.LastBase.Name);
         //}
-        //[TestMethod]
-        //[TestCategory("Player")]
-        //[TestCategory("Player Read Tests")]
+        //[Test]
+        //[Category("Player")]
+        //[Category("Player Read Tests")]
         //public void canReadTotalCashEarned()
         //{
         //    Assert.AreEqual(0, PlayerUnit.player.totalCashEarned);
         //}
-        //[TestMethod]
-        //[TestCategory("Player")]
-        //[TestCategory("Player Read Tests")]
+        //[Test]
+        //[Category("Player")]
+        //[Category("Player Read Tests")]
         //public void canReadTimePlayed()
         //{
         //    Assert.AreEqual(11, PlayerUnit.player.PlayerTime.Seconds);
         //}
-        //[TestMethod]
-        //[TestCategory("Player")]
-        //[TestCategory("Player Read Tests")]
+        //[Test]
+        //[Category("Player")]
+        //[Category("Player Read Tests")]
         //public void canReadPositionalData()
         //{
         //    Assert.AreEqual(PlayerUnit.playerSpace.PositionData, "-33167.9,196.429,-27367.6");
         //    Assert.AreEqual(PlayerUnit.playerSpace.RotationData, "-156.426,-23.1356,178.895");
         //}
-        //[TestMethod]
-        //[TestCategory("Player")]
-        //[TestCategory("Player Read Tests")]
+        //[Test]
+        //[Category("Player")]
+        //[Category("Player Read Tests")]
         //public void canReadDescription()
         //{
         //    Assert.AreEqual(PlayerUnit.player.Description, "09/27/15 14:38:22");
         //}
-        //[TestMethod]
-        //[TestCategory("Player")]
-        //[TestCategory("Player Read Tests")]
+        //[Test]
+        //[Category("Player")]
+        //[Category("Player Read Tests")]
         //public void canReadTimestamp()
         //{
         //    Assert.AreEqual(PlayerUnit.player.Timestamp, "30472498,690674592");

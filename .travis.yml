@@ -1,0 +1,7 @@
+language: csharp
+solution: Biocross.sln
+install:
+  - nuget restore Biocross.sln
+  - nuget install NUnit.Runners -Version 3.2.1 -OutputDirectory testrunner
+script:
+  - make test

@@ -4,23 +4,23 @@ using System.Reflection;
 using Biocross.Data;
 using Biocross.Core.Item;
 using Biocross.Core.Exceptions;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace Biocross.Core.NUnit.Item
 {
-    [TestClass]
+    [TestFixture]
     public class TractorBeamUnit
     {
 
         private static DataInterface di = new DataInterface(@Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\biodata.mdf", "TESTDATA/");
 
         #region Test Setup
-        [ClassInitialize]
-        public static void setup(TestContext c)
+        [OneTimeSetUp]
+        public static void setup()
         {
             di.init();
         }
-        [ClassCleanup]
+        [OneTimeTearDown]
         public static void cleanup()
         {
             di.Dispose();
@@ -28,28 +28,27 @@ namespace Biocross.Core.NUnit.Item
         #endregion
 
         #region TractorBeam Class
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Tractor Beam")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Tractor Beam")]
         public void testTractorBeamBasic()
         {
             TractorBeam tb = new TractorBeam("2799531210", di);
             Assert.AreEqual("Tractor Beam", tb.Name);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Tractor Beam")]
-        [ExpectedException(typeof(GamedataMismatchException))]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Tractor Beam")]
         public void testTractorBeamTypeCheck()
         {
-            // This is a Power Generator, oops! Should error!
-            new TractorBeam("2182579915", di);
+            // This is a Power Generator, Should error!
+            Assert.Throws<GamedataMismatchException>(() => new TractorBeam("2182579915", di));
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Tractor Beam")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Tractor Beam")]
         public void testTractorBeamSetIDS()
         {
             TractorBeam tb = new TractorBeam("2799531210", di);

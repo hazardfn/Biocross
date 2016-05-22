@@ -4,23 +4,23 @@ using System.Reflection;
 using Biocross.Data;
 using Biocross.Core.Item;
 using Biocross.Core.Exceptions;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace Biocross.Core.NUnit.Item
 {
-    [TestClass]
+    [TestFixture]
     public class PowerUnit
     {
 
         private static DataInterface di = new DataInterface(@Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\biodata.mdf", "TESTDATA/");
 
         #region Test Setup
-        [ClassInitialize]
-        public static void setup(TestContext c)
+        [OneTimeSetUp]
+        public static void setup()
         {
             di.init();
         }
-        [ClassCleanup]
+        [OneTimeTearDown]
         public static void cleanup()
         {
             di.Dispose();
@@ -28,28 +28,28 @@ namespace Biocross.Core.NUnit.Item
         #endregion
 
         #region Power Class
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Power")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Power")]
         public void testPowerBasic()
         {
             Power power = new Power("2182579915", di);
             Assert.AreEqual("Startracker Power Generator", power.Name);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Power")]
-        [ExpectedException(typeof(GamedataMismatchException))]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Power")]
+        
         public void testPowerTypeCheck()
         {
-            // This is a projectile, oops! Should error!
-            new Power("3024613711", di);
+            // This is a projectile, Should error!
+            Assert.Throws<GamedataMismatchException>(() => new Power("3024613711", di));
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("Power")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("Power")]
         public void testPowerSetIDS()
         {
             Power power = new Power("2182579915", di);

@@ -4,23 +4,23 @@ using System.Reflection;
 using Biocross.Data;
 using Biocross.Core.Item;
 using Biocross.Core.Exceptions;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
 
 namespace Biocross.Core.NUnit.Item
 {
-    [TestClass]
+    [TestFixture]
     public class SystemUnit
     {
 
         private static DataInterface di = new DataInterface(@Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) + @"\biodata.mdf", "TESTDATA/");
 
         #region Test Setup
-        [ClassInitialize]
-        public static void setup(TestContext c)
+        [OneTimeSetUp]
+        public static void setup()
         {
             di.init();
         }
-        [ClassCleanup]
+        [OneTimeTearDown]
         public static void cleanup()
         {
             di.Dispose();
@@ -28,37 +28,37 @@ namespace Biocross.Core.NUnit.Item
         #endregion
 
         #region System Class
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("System")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("System")]
         public void testSystemBasic()
         {
             Core.Item.System system = new Core.Item.System("Li02", di);
             Assert.AreEqual("California", system.Name);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("System")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("System")]
         public void testSystemCaseInsensitive()
         {
             Core.Item.System system = new Core.Item.System("lI02", di);
             Assert.AreEqual("California", system.Name);
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("System")]
-        [ExpectedException(typeof(GamedataMismatchException))]
+        [Test]
+        [Category("Gamedata")]
+        [Category("System")]
+        
         public void testSystemTypeCheck()
         {
-            // This is a Power Generator, oops! Should error!
-            new Core.Item.System("2182579915", di);
+            // This is a Power Generator, Should error!
+            Assert.Throws<GamedataMismatchException>(() => new Core.Item.System("2182579915", di));
         }
 
-        [TestMethod]
-        [TestCategory("Gamedata")]
-        [TestCategory("System")]
+        [Test]
+        [Category("Gamedata")]
+        [Category("System")]
         public void testSystemSetIDS()
         {
             Core.Item.System system = new Core.Item.System("Li02", di);
