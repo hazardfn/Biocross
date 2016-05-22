@@ -19,3 +19,4 @@ cd "./Biocross.Data.NUnit/bin/Release/"
 mono ./../../../testrunner/NUnit.ConsoleRunner.3.2.1/tools/nunit3-console.exe ./Biocross.Data.NUnit.dll
 cd "./../../../Biocross.Core/Biocross.Core.NUnit/bin/Release"
 mono ./../../../../testrunner/NUnit.ConsoleRunner.3.2.1/tools/nunit3-console.exe ./Biocross.Core.NUnit.dll
+cd "./../../../../"
